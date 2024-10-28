@@ -1,1399 +1,1649 @@
-<!DOCTYPE html>
-<html ⚡ lang="id">
-
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"
+  data-authenticated-account>
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description"
-        content="ROKOKBET adalah raja bandar togel online yang paling terbesar dan yang paling tepercaya didunia dalam memberikan suatu kemenangan ke para pemainnya dan selain itu situs web ini sudah dinobatkan menjadi situs terbesar yang ada diseluruh dunia. " />
-    <title>ROKOKBET | Raja Bandar Togel Online Terbesar Dan Tepercaya Diseluruh Dunia</title>
-    <meta name="keywords"
-        content="rokokbet, login rokokbet, link rokokbet, situs rokokbet, agen rokokbet, daftar rokokbet, toto online, situs terpercaya" />
-    <meta name="robots" content="all" />
-    <meta name="rating" content="general" />
-    <meta name="geo.region" content="id_ID" />
-    <meta name="googlebot" content="all">
-    <meta name="geo.country" content="id" />
-    <meta name="language" content="Id-ID" />
-    <meta name="distribution" content="global" />
-    <meta name="geo.placename" content="Indonesia" />
-    <meta property="og:type" content="website" />
-    <meta property="og:locale" content="id_ID" />
-    <meta property="og:locale:alternate" content="en_US" />
-    <meta property="og:title" content="ROKOKBET | Raja Bandar Togel Online Terbesar Dan Tepercaya Diseluruh Dunia" />
-    <meta property="og:description"
-        content="ROKOKBET adalah raja bandar togel online yang paling terbesar dan yang paling tepercaya didunia dalam memberikan suatu kemenangan ke para pemainnya dan selain itu situs web ini sudah dinobatkan menjadi situs terbesar yang ada diseluruh dunia. " />
-    <meta property="og:url" content="https://extollo.hu/" />
-    <meta property="og:site_name" content="Rokokbet" />
-    <meta property="og:image" content="https://res.cloudinary.com/dqkin28uq/image/upload/v1728669020/rokok7_j35gtb.jpg" />
-    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
-    <link rel="canonical" itemprop="mainEntityOfPage" href="https://extollo.hu/" />
-    <link rel="shortcut icon" href="https://res.cloudinary.com/dqkin28uq/image/upload/v1727884650/favicon_0_hgvvxf.png" />
-    <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <script async custom-element="amp-anim" src="https://cdn.ampproject.org/v0/amp-anim-0.1.js"></script>
-    <script async custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js"></script>
-    <script type="application/ld+json">{
-        "@context": "https://schema.org",
-        "@type": "Game",
-        "name": "Rokokbet",
-        "author": {
-            "@type": "Person", 
-            "name": "Admin"},
-            "headline": "ROKOKBET | Raja Bandar Togel Online Terbesar Dan Tepercaya Diseluruh Dunia",
-            "description": "ROKOKBET adalah raja bandar togel online yang paling terbesar dan yang paling tepercaya didunia dalam memberikan suatu kemenangan ke para pemainnya dan selain itu situs web ini sudah dinobatkan menjadi situs terbesar yang ada diseluruh dunia. ",
-            "keywords": ["rokokbet, login rokokbet, link rokokbet, situs rokokbet, agen rokokbet, daftar rokokbet, toto online, situs terpercaya"],
-            "image": "https://res.cloudinary.com/dqkin28uq/image/upload/v1728669020/rokok7_j35gtb.jpg",
-            "url": "https://extollo.hu/",
-            "publisher": { 
-                "@type": "Organization", 
-                "name": "Rokokbet"},
-                "aggregateRating": { 
-                    "@type": "AggregateRating", 
-                    "ratingValue": "98", 
-                    "bestRating": "100", 
-                    "worstRating": "0", 
-                    "ratingCount": "1942619"
-                },
-                
-                "inLanguage": "id-ID"
-            }
-    </script>
-    <style amp-boilerplate>
-        body {
-            -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
-            -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
-            -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
-            animation: -amp-start 8s steps(1, end) 0s 1 normal both
-        }
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <base href="https://extollo.hu/">
+  <meta charset="utf-8" />
+  <title>ROKOKBET | Raja Bandar Togel Online Terbesar Dan Tepercaya Diseluruh Dunia</title>
+  <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" />
+  <link rel="icon" type="image/x-icon" href="https://res.cloudinary.com/dqkin28uq/image/upload/v1727884650/favicon_0_hgvvxf.png" />
+  <link rel="amphtml" href="https://pub-0d8bb87bad984519b96010490ab0fdae.r2.dev/extolo.html" />
+  <link rel="canonical" href="https://extollo.hu/" />
+  <meta property="og:site_name" content="ROKOKBET" />
+  <meta property="og:title" content="ROKOKBET | Raja Bandar Togel Online Terbesar Dan Tepercaya Diseluruh Dunia" />
+  <meta property="og:url" content="https://extollo.hu/" />
+  <meta property="og:type" content="product" />
+  <meta property="og:description" content="ROKOKBET adalah raja bandar togel online yang paling terbesar dan yang paling tepercaya didunia dalam memberikan suatu kemenangan ke para pemainnya dan selain itu situs web ini sudah dinobatkan menjadi situs terbesar yang ada diseluruh dunia." />
+  <meta property="og:image" content="https://res.cloudinary.com/dqkin28uq/image/upload/v1728669020/rokok7_j35gtb.jpg" />
+  <meta property="og:image:width" content="840" />
+  <meta property="og:image:height" content="480" />
+  <meta property="product:price:amount" content="111.00" />
+  <meta property="product:price:currency" content="IDR" />
+  <meta property="product:availability" content="instock" />
+  <meta itemprop="name" content="ROKOKBET | Raja Bandar Togel Online Terbesar Dan Tepercaya Diseluruh Dunia" />
+  <meta itemprop="url" content="https://extollo.hu/" />
+  <meta itemprop="description" content="ROKOKBET adalah raja bandar togel online yang paling terbesar dan yang paling tepercaya didunia dalam memberikan suatu kemenangan ke para pemainnya dan selain itu situs web ini sudah dinobatkan menjadi situs terbesar yang ada diseluruh dunia." />
+  <meta itemprop="thumbnailUrl" content="https://res.cloudinary.com/dqkin28uq/image/upload/v1728669020/rokok7_j35gtb.jpg" />
+  <link rel="image_src" href="https://res.cloudinary.com/dqkin28uq/image/upload/v1728669020/rokok7_j35gtb.jpg" />
+  <meta itemprop="image" content="https://res.cloudinary.com/dqkin28uq/image/upload/v1728669020/rokok7_j35gtb.jpg" />
+  <meta name="twitter:title" content="ROKOKBET | Raja Bandar Togel Online Terbesar Dan Tepercaya Diseluruh Dunia" />
+  <meta name="twitter:image" content="https://res.cloudinary.com/dqkin28uq/image/upload/v1728669020/rokok7_j35gtb.jpg" />
+  <meta name="twitter:url" content="https://extollo.hu/" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="google-site-verification" content="cfI2FfWozNcKV7vCdFjL22qU4cYN5cmNc1_8-me_RTA" />
+  <meta name="twitter:description" content="ROKOKBET adalah raja bandar togel online yang paling terbesar dan yang paling tepercaya didunia dalam memberikan suatu kemenangan ke para pemainnya dan selain itu situs web ini sudah dinobatkan menjadi situs terbesar yang ada diseluruh dunia." />
+  <meta name="description" content="ROKOKBET adalah raja bandar togel online yang paling terbesar dan yang paling tepercaya didunia dalam memberikan suatu kemenangan ke para pemainnya dan selain itu situs web ini sudah dinobatkan menjadi situs terbesar yang ada diseluruh dunia." />
+  <link rel="preconnect" href="https://images.squarespace-cdn.com">
+  <script type="text/javascript" src="//use.typekit.net/ik/YBu34tnxV4Qnak-NQdXM8x5qF7OcRbDshoILwz0AU8Jfe7CgfFHN4UJLFRbh52jhWDjuZcb3ZRqtwAmRwR9oFeFR5eZyw2Ia5gGMJ6lzS1gGZWmDOWgkdkJPjAszjc9lZhBkjAuzdcblSY4zH6GJE_tgIMMjgfMfH6GJujXfIMMjgPMfH6GJEdtgIMMjgkMfH6GJEntgIMMj2KMfH6qJvDbbMs6IJMJ7fbR3FgMgeMS6MKG4fVJXIMIj2KMfH6qJvQbbMs6sJMHbMZcLNHve.js"></script>
+  <script type="text/javascript">try { Typekit.load(); } catch (e) { }</script>
+  <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
+  <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
+  <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+  <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-901b92ac6382aa506e2c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+  
+  <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
 
-        @-webkit-keyframes -amp-start {
-            from {
-                visibility: hidden
-            }
+  <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-1edcdb1d4b6b94ec8c7e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+ 
+  <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-98890d5c030fb474ba6c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
 
-            to {
-                visibility: visible
-            }
-        }
+  <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-7a98df8511da483159d9-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
 
-        @-moz-keyframes -amp-start {
-            from {
-                visibility: hidden
-            }
+  <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-6ba49635395d7a3ea6d0-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
 
-            to {
-                visibility: visible
-            }
-        }
+  <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/commerce-debf953cca7d88c08601-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+ 
+  <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].css = ["//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+  <link rel="stylesheet" type="text/css"
+    href="//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css">
+  <script
+    data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = { "facebookAppId": "314192535267336", "facebookApiVersion": "v6.0", "rollups": { "squarespace-announcement-bar": { "js": "//assets.squarespace.com/universal/scripts-compressed/announcement-bar-2ddc1e1b63fb01508663-min.en-US.js" }, "squarespace-audio-player": { "css": "//assets.squarespace.com/universal/styles-compressed/audio-player-9fb16b1675c0ff315dae-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/audio-player-52e7797854645a8049b0-min.en-US.js" }, "squarespace-blog-collection-list": { "css": "//assets.squarespace.com/universal/styles-compressed/blog-collection-list-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-1e390bbcde22c7bbc97f-min.en-US.js" }, "squarespace-calendar-block-renderer": { "css": "//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-0e361398b7723c9dc63e-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-b7f7ef044f34ab60f440-min.en-US.js" }, "squarespace-chartjs-helpers": { "css": "//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-e1c09c17d776634c0edc-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-183bb56124237b096402-min.en-US.js" }, "squarespace-comments": { "css": "//assets.squarespace.com/universal/styles-compressed/comments-24b74a0326eae0cd5049-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/comments-57aaa7e0d8bb4318a484-min.en-US.js" }, "squarespace-custom-css-popup": { "css": "//assets.squarespace.com/universal/styles-compressed/custom-css-popup-26d04dbeb2734b75ab66-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-c382f88a8b4030eaba9e-min.en-US.js" }, "squarespace-dialog": { "css": "//assets.squarespace.com/universal/styles-compressed/dialog-081be79078914b908a1a-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/dialog-220dee7ab3c67003a735-min.en-US.js" }, "squarespace-events-collection": { "css": "//assets.squarespace.com/universal/styles-compressed/events-collection-0e361398b7723c9dc63e-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/events-collection-5e7e2c69c45256595707-min.en-US.js" }, "squarespace-form-rendering-utils": { "js": "//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-ff99e57a9b46f1df69cb-min.en-US.js" }, "squarespace-forms": { "css": "//assets.squarespace.com/universal/styles-compressed/forms-8d93ba2c12ff0765b64c-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/forms-d654c3315c889be0f1a5-min.en-US.js" }, "squarespace-gallery-collection-list": { "css": "//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-5f8358cf7b510b32fc49-min.en-US.js" }, "squarespace-image-zoom": { "css": "//assets.squarespace.com/universal/styles-compressed/image-zoom-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/image-zoom-d0c90be829ba36cb62cc-min.en-US.js" }, "squarespace-pinterest": { "css": "//assets.squarespace.com/universal/styles-compressed/pinterest-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/pinterest-a6dbcb964bd882c42ef0-min.en-US.js" }, "squarespace-popup-overlay": { "css": "//assets.squarespace.com/universal/styles-compressed/popup-overlay-b2bf7df4402e207cd72c-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/popup-overlay-ce3ac44a00dabe47927e-min.en-US.js" }, "squarespace-product-quick-view": { "css": "//assets.squarespace.com/universal/styles-compressed/product-quick-view-4aec27f1bd826750e9db-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/product-quick-view-f9b8478c52e3b704a64f-min.en-US.js" }, "squarespace-products-collection-item-v2": { "css": "//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-a96b3f54dd47a01900f6-min.en-US.js" }, "squarespace-products-collection-list-v2": { "css": "//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-0c340509add53a698500-min.en-US.js" }, "squarespace-search-page": { "css": "//assets.squarespace.com/universal/styles-compressed/search-page-dcc0462e30efbd6dc562-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/search-page-03ccda685ca48569888b-min.en-US.js" }, "squarespace-search-preview": { "js": "//assets.squarespace.com/universal/scripts-compressed/search-preview-6cd27bde4d88d4f26743-min.en-US.js" }, "squarespace-simple-liking": { "css": "//assets.squarespace.com/universal/styles-compressed/simple-liking-a9eb87c1b73b199ce387-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/simple-liking-6a6862d5ff0df1b9784e-min.en-US.js" }, "squarespace-social-buttons": { "css": "//assets.squarespace.com/universal/styles-compressed/social-buttons-98ee3a678d356d849b76-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/social-buttons-4e176f98e042b90d7db4-min.en-US.js" }, "squarespace-tourdates": { "css": "//assets.squarespace.com/universal/styles-compressed/tourdates-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/tourdates-463b5b9532edddc3565e-min.en-US.js" }, "squarespace-website-overlays-manager": { "css": "//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-6dfb472f441e39d78b13-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-cbf06aa21f2440307e01-min.en-US.js" } }, "pageType": 50, "website": { "id": "65fd0f981ec2594cc8fa0178", "identifier": "flamingo-elk-f2ll", "websiteType": 1, "contentModifiedOn": 1711083626706, "cloneable": false, "hasBeenCloneable": false, "siteStatus": { "value": 3, "expiration": 1712293016383 }, "language": "en-US", "timeZone": "Asia/Jakarta", "machineTimeZoneOffset": 25200000, "timeZoneOffset": 25200000, "timeZoneAbbr": "WIB", "siteTitle": "ROKOKBET", "fullSiteTitle": "ROKOKBET | Raja Bandar Togel Online Terbesar Dan Tepercaya Diseluruh Dunia \u2014 ROKOKBET", "siteDescription": { "html": "", "raw": false }, "logoImageId": "65fd10a47559c83021e276b0", "shareButtonOptions": { "1": true, "3": true, "4": true, "6": true, "8": true, "7": true, "2": true }, "logoImageUrl": "https://res.cloudinary.com/dqkin28uq/image/upload/v1728160488/rokokbet-logo_0_odxbog.png", "authenticUrl": "https://extollo.hu/", "internalUrl": "https://extollo.hu/", "baseUrl": "https://extollo.hu/", "sslSetting": 3, "isHstsEnabled": true, "createdOn": 1711083416383, "templateId": "5c5a519771c10ba3470d8101", "installationId": "65fd0f981ec2594cc8fa0180", "templateWebsiteId": "624b3c6dfa94ce68f1db3837", "hasPassword": false, "typekitId": "", "statsMigrated": false, "imageMetadataProcessingEnabled": false, "revalidateBefore": 1711083687852, "captchaSettings": { "enabledForDonations": false }, "showOwnerLogin": true }, "websiteSettings": { "id": "65fd0f981ec2594cc8fa017b", "websiteId": "65fd0f981ec2594cc8fa0178", "subjects": [], "country": "ID", "state": "JK", "simpleLikingEnabled": true, "mobileInfoBarSettings": { "isContactEmailEnabled": false, "isContactPhoneNumberEnabled": false, "isLocationEnabled": false, "isBusinessHoursEnabled": false }, "commentLikesAllowed": true, "commentAnonAllowed": true, "commentThreaded": true, "commentApprovalRequired": false, "commentAvatarsOn": true, "commentSortType": 2, "commentFlagThreshold": 0, "commentFlagsAllowed": true, "commentEnableByDefault": true, "commentDisableAfterDaysDefault": 0, "disqusShortname": "", "commentsEnabled": false, "storeSettings": { "returnPolicy": { "raw": false }, "termsOfService": { "raw": false }, "privacyPolicy": { "raw": false }, "storeMailingList": { "connected": false, "list": "", "useSingleOptIn": false }, "expressCheckout": false, "continueShoppingLinkUrl": "/", "testModeOn": true, "useLightCart": false, "showNoteField": false, "shippingCountryDefaultValue": "US", "billToShippingDefaultValue": false, "showShippingPhoneNumber": true, "isShippingPhoneRequired": false, "showBillingPhoneNumber": true, "isBillingPhoneRequired": false, "currenciesSupported": ["USD", "CAD", "GBP", "AUD", "EUR", "CHF", "NOK", "SEK", "DKK", "NZD", "SGD", "MXN", "HKD", "CZK", "ILS", "MYR", "RUB", "PHP", "PLN", "THB", "BRL", "ARS", "COP", "IDR", "INR", "JPY", "ZAR"], "defaultCurrency": "USD", "selectedCurrency": "IDR", "measurementStandard": 1, "showCustomCheckoutForm": false, "checkoutPageMarketingOptInEnabled": true, "enableMailingListOptInByDefault": false, "isApplePayEnabled": false, "isPaymentRequestEnabled": true, "sameAsRetailLocation": false, "merchandisingSettings": { "scarcityEnabledOnProductItems": false, "scarcityEnabledOnProductBlocks": false, "scarcityMessageType": "DEFAULT_SCARCITY_MESSAGE", "scarcityThreshold": 10, "merchantLowStockAlertThreshold": 5, "multipleQuantityAllowedForServices": true, "restockNotificationsEnabled": false, "restockNotificationsMailingListSignUpEnabled": false, "relatedProductsEnabled": false, "relatedProductsOrdering": "random", "soldOutVariantsDropdownDisabled": false, "productComposerOptedIn": false, "productComposerABTestOptedOut": false, "productReviewsEnabled": false }, "minimumOrderSubtotalEnabled": false, "minimumOrderSubtotal": { "currency": "IDR", "value": "0.00" }, "instagramShoppingLinkDestination": 1, "storeMigratedToProductCollections2_0": false, "isLive": false, "multipleQuantityAllowedForServices": true }, "useEscapeKeyToLogin": false, "ssBadgeType": 1, "ssBadgePosition": 4, "ssBadgeVisibility": 1, "ssBadgeDevices": 1, "pinterestOverlayOptions": { "mode": "disabled" }, "ampEnabled": false, "userAccountsSettings": { "loginAllowed": false, "signupAllowed": false } }, "cookieSettings": { "isCookieBannerEnabled": false, "isRestrictiveCookiePolicyEnabled": false, "isRestrictiveCookiePolicyAbsolute": false, "cookieBannerText": "", "cookieBannerTheme": "", "cookieBannerVariant": "", "cookieBannerPosition": "", "cookieBannerCtaVariant": "", "cookieBannerCtaText": "", "cookieBannerAcceptType": "OPT_IN", "cookieBannerOptOutCtaText": "", "cookieBannerHasOptOut": false, "cookieBannerHasManageCookies": true, "cookieBannerManageCookiesLabel": "" }, "websiteCloneable": false, "collection": { "title": "Store", "id": "65fd0fc2aa1d0858f5af2fe4", "fullUrl": "/store", "type": 13, "permissionType": 1 }, "item": { "title": "ROKOKBET | Raja Bandar Togel Online Terbesar Dan Tepercaya Diseluruh Dunia", "id": "65fd0fc7db01f63c712f258e", "fullUrl": "/store/p/zeus", "publicCommentCount": 0, "commentState": 1, "recordType": 11 }, "subscribed": false, "appDomain": "squarespace.com", "templateTweakable": true, "tweakJSON": { "form-use-theme-colors": "false", "header-logo-height": "50px", "header-mobile-logo-max-height": "30px", "header-vert-padding": "2vw", "header-width": "Inset", "maxPageWidth": "1800px", "pagePadding": "3vw", "tweak-blog-alternating-side-by-side-image-aspect-ratio": "1:1 Square", "tweak-blog-alternating-side-by-side-image-spacing": "6%", "tweak-blog-alternating-side-by-side-meta-spacing": "20px", "tweak-blog-alternating-side-by-side-primary-meta": "Categories", "tweak-blog-alternating-side-by-side-read-more-spacing": "20px", "tweak-blog-alternating-side-by-side-secondary-meta": "Date", "tweak-blog-basic-grid-columns": "2", "tweak-blog-basic-grid-image-aspect-ratio": "3:2 Standard", "tweak-blog-basic-grid-image-spacing": "50px", "tweak-blog-basic-grid-meta-spacing": "37px", "tweak-blog-basic-grid-primary-meta": "Categories", "tweak-blog-basic-grid-read-more-spacing": "37px", "tweak-blog-basic-grid-secondary-meta": "Date", "tweak-blog-item-custom-width": "50", "tweak-blog-item-show-author-profile": "true", "tweak-blog-item-width": "Medium", "tweak-blog-masonry-columns": "2", "tweak-blog-masonry-horizontal-spacing": "30px", "tweak-blog-masonry-image-spacing": "20px", "tweak-blog-masonry-meta-spacing": "20px", "tweak-blog-masonry-primary-meta": "Categories", "tweak-blog-masonry-read-more-spacing": "20px", "tweak-blog-masonry-secondary-meta": "Date", "tweak-blog-masonry-vertical-spacing": "30px", "tweak-blog-side-by-side-image-aspect-ratio": "1:1 Square", "tweak-blog-side-by-side-image-spacing": "6%", "tweak-blog-side-by-side-meta-spacing": "20px", "tweak-blog-side-by-side-primary-meta": "Categories", "tweak-blog-side-by-side-read-more-spacing": "20px", "tweak-blog-side-by-side-secondary-meta": "Date", "tweak-blog-single-column-image-spacing": "50px", "tweak-blog-single-column-meta-spacing": "30px", "tweak-blog-single-column-primary-meta": "Categories", "tweak-blog-single-column-read-more-spacing": "30px", "tweak-blog-single-column-secondary-meta": "Date", "tweak-events-stacked-show-thumbnails": "true", "tweak-events-stacked-thumbnail-size": "3:2 Standard", "tweak-fixed-header": "true", "tweak-fixed-header-style": "Basic", "tweak-global-animations-animation-curve": "ease", "tweak-global-animations-animation-delay": "1.0s", "tweak-global-animations-animation-duration": "0.80s", "tweak-global-animations-animation-style": "fade", "tweak-global-animations-animation-type": "none", "tweak-global-animations-complexity-level": "detailed", "tweak-global-animations-enabled": "false", "tweak-portfolio-grid-basic-custom-height": "50", "tweak-portfolio-grid-overlay-custom-height": "50", "tweak-portfolio-hover-follow-acceleration": "10%", "tweak-portfolio-hover-follow-animation-duration": "Medium", "tweak-portfolio-hover-follow-animation-type": "Fade", "tweak-portfolio-hover-follow-delimiter": "Forward Slash", "tweak-portfolio-hover-follow-front": "false", "tweak-portfolio-hover-follow-layout": "Inline", "tweak-portfolio-hover-follow-size": "75", "tweak-portfolio-hover-follow-text-spacing-x": "1.5", "tweak-portfolio-hover-follow-text-spacing-y": "1.5", "tweak-portfolio-hover-static-animation-duration": "Medium", "tweak-portfolio-hover-static-animation-type": "Scale Up", "tweak-portfolio-hover-static-delimiter": "Forward Slash", "tweak-portfolio-hover-static-front": "false", "tweak-portfolio-hover-static-layout": "Stacked", "tweak-portfolio-hover-static-size": "75", "tweak-portfolio-hover-static-text-spacing-x": "1.5", "tweak-portfolio-hover-static-text-spacing-y": "1.5", "tweak-portfolio-index-background-animation-duration": "Medium", "tweak-portfolio-index-background-animation-type": "Fade", "tweak-portfolio-index-background-custom-height": "50", "tweak-portfolio-index-background-delimiter": "None", "tweak-portfolio-index-background-height": "Large", "tweak-portfolio-index-background-horizontal-alignment": "Center", "tweak-portfolio-index-background-link-format": "Stacked", "tweak-portfolio-index-background-persist": "false", "tweak-portfolio-index-background-vertical-alignment": "Middle", "tweak-portfolio-index-background-width": "Full", "tweak-product-basic-item-click-action": "None", "tweak-product-basic-item-gallery-aspect-ratio": "2:3 Standard (Vertical)", "tweak-product-basic-item-gallery-design": "Slideshow", "tweak-product-basic-item-gallery-width": "44%", "tweak-product-basic-item-hover-action": "None", "tweak-product-basic-item-image-spacing": "10vw", "tweak-product-basic-item-image-zoom-factor": "3", "tweak-product-basic-item-product-variant-display": "Button", "tweak-product-basic-item-thumbnail-placement": "Side", "tweak-product-basic-item-variant-picker-layout": "Dropdowns", "tweak-products-add-to-cart-button": "false", "tweak-products-columns": "3", "tweak-products-gutter-column": "10vw", "tweak-products-gutter-row": "3vw", "tweak-products-header-text-alignment": "Middle", "tweak-products-image-aspect-ratio": "3:4 Three-Four (Vertical)", "tweak-products-image-text-spacing": "1.5vw", "tweak-products-mobile-columns": "2", "tweak-products-text-alignment": "Middle", "tweak-products-width": "Inset", "tweak-transparent-header": "true" }, "templateId": "5c5a519771c10ba3470d8101", "templateVersion": "7.1", "pageFeatures": [1, 2, 4], "gmRenderKey": "QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4", "templateScriptsRootUrl": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/", "betaFeatureFlags": ["content_ai_brand_identity", "campaigns_thumbnail_layout", "blog_monetization", "unify_edit_mode_p2", "hideable_header_footer_for_videos", "send_local_pickup_ready_email", "visitor_react_forms", "toggle_preview_new_shortcut", "commsplat_forms_visitor_profile", "viewer-role-contributor-invites", "website_form_effects", "header_usability_improvements", "commerce_checkout_website_updates_enabled", "fluid_engine_clean_up_grid_contextual_change", "fluid_engine_default_mobile_order", "commerce_clearpay", "summary_block_video_collections", "commerce_order_status_access", "customer_accounts_email_verification", "campaigns_discount_section_in_blasts", "unify_edit_mode_p1", "enable_css_variable_tweaks", "website_fonts", "background_art_onboarding", "campaigns_new_image_layout_picker", "supports_versioned_template_assets", "commerce_site_visitor_metrics", "google_consent_v2", "pdp_product_add_ons_visitor_site", "react_pages_panel", "rte_text_justify_align", "commerce_restock_notifications", "rewrite_transactional_email_from_address", "hide_header_footer_beta", "customer_account_creation_recaptcha", "seven_one_migration_updated_kb_links", "show_mobile_column_in_plp_editor", "template_translation_english_fallbacks", "shape_block", "hideable_header_footer_for_courses", "commerce_etsy_shipping_import", "is_feature_gate_refresh_enabled", "themes", "website_form_improvements", "marketing_landing_page", "invoicing-on-personal-plans", "campaigns_import_discounts", "commerce_etsy_product_import", "campaigns_global_uc_ab", "sticky_scroll", "collection_typename_switching", "override_block_styles", "scripts_defer", "nested_categories", "link_editor_redesign", "member_areas_feature", "fluid_engine", "campaigns_discount_section_in_automations", "accounting_orders_sync", "nested_categories_migration_enabled", "proposals_beta_in_circle_labs", "commerce_paywall_renewal_notifications", "new_stacked_index", "rte_text_highlights", "unify_edit_mode_p1_70", "container_styles_improvements", "fluid_engine_new_multiselect_actions", "commerce_subscription_renewal_notifications"], "videoAssetsFeatureFlags": ["mux-data-video-collection", "mux-data-course-collection"], "authenticatedAccount": { "id": "65c59c43aeb76a63df61000a", "tutorialsCompleted": { "has-seen-fluid-engine-mobile-changes-notification": true }, "notificationsRead": {}, "lastLoginOn": 1710053561233, "displayName": "situs toto togel 4D", "firstName": "Togel", "lastName": "Online", "eligibleForMarketingDiscount": false, "avatarUrl": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65c59c43aeb76a63df61000a/eebe3831-3821-41a9-8818-bd08e148e29c/thirdPartyMemberAvatar-65c59c43aeb76a63df61000a-8626ef63-73bb-4e8a-9246-0b0e8a72310a?format=300w", "bio": "", "roles": {}, "email": "primahengkiki@gmail.com", "createdOn": 1707449411357, "marketingId": "8a89b7bf-913e-404f-8ced-d1dde4b91061", "avatarAssetUrl": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65c59c43aeb76a63df61000a/eebe3831-3821-41a9-8818-bd08e148e29c/thirdPartyMemberAvatar-65c59c43aeb76a63df61000a-8626ef63-73bb-4e8a-9246-0b0e8a72310a?format=300w", "pseudonymAccount": false, "preferredLocale": "en-US" }, "authenticatedAccountWebsiteSettings": { "id": "65fd0f9fd4f37d0ac654bf8c" }, "permissions": { "permissions": { "1": true } }, "websiteRoles": { "1": true }, "accessPermissions": [1310, 1701, 1225, 1414, 1216, 1234, 1910, 1421, 1700, 1516, 1513, 1517, 1415, 1422, 1233, 1932, 1413, 1211, 1229, 1420, 1110, 1223, 1230, 1212, 1228, 12, 1210, 1512, 1111, 1226, 1418, 1214, 1419, 1912, 1112, 1410, 1224, 1611, 1921, 1219, 1220, 1311, 1423, 1515, 1612, 1213, 1411, 0, 1416, 1417, 15, 11, 13, 1412, 1930, 1931, 1911, 1514, 1610, 14, 1218, 1511, 1810, 1, 1510, 1221, 2066, 18, 1920, 1215, 1217], "memberAccountNames": { "65c59c43aeb76a63df61000a": { "avatarUrl": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65c59c43aeb76a63df61000a/eebe3831-3821-41a9-8818-bd08e148e29c/thirdPartyMemberAvatar-65c59c43aeb76a63df61000a-8626ef63-73bb-4e8a-9246-0b0e8a72310a?format=300w", "bio": "", "displayName": "situs toto togel 4D" } }, "impersonatedSession": false, "demoCollections": [{ "collectionId": "624b3c75fa94ce68f1db3cfe", "deleted": false }, { "collectionId": "624b3c6dfa94ce68f1db3870", "deleted": false }, { "collectionId": "624b3c75fa94ce68f1db3ce1", "deleted": false }], "connectedAccounts": [], "tzData": { "zones": [[420, null, "WIB", null]], "rules": {} }, "product": { "variantAttributeNames": [], "variants": [{ "id": "28c210bc-2f66-4327-ac09-83b3f6cb6b13", "sku": "SQ1936194", "price": { "currencyCode": "IDR", "value": 888, "decimalValue": "10000.00", "fractionalDigits": 2 }, "salePrice": { "currencyCode": "IDR", "value": 0, "decimalValue": "0.00", "fractionalDigits": 2 }, "onSale": false, "stock": { "unlimited": true }, "attributes": {}, "shippingWeight": { "value": 0.0, "unit": "POUND" }, "shippingSize": { "unit": "INCH", "width": 0.0, "height": 0.0, "len": 0.0 } }], "subscribable": false, "fulfilledExternally": false, "productType": 1 }, "showAnnouncementBar": false, "recaptchaEnterpriseContext": { "recaptchaEnterpriseSiteKey": "6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv" }, "i18nContext": { "timeZoneData": { "id": "Asia/Jakarta", "name": "Western Indonesia Time" } } };</script>
+  <script
+    type="application/ld+json">{"url":"https://extollo.hu/","name":"ROKOKBET","description":"","image":"https://res.cloudinary.com/dqkin28uq/image/upload/v1728160488/rokokbet-logo_0_odxbog.png","@context":"http://schema.org","@type":"WebSite"}</script>
+  <script
+    type="application/ld+json">{"name":"ROKOKBET | Raja Bandar Togel Online Terbesar Dan Tepercaya Diseluruh Dunia \u2014 ROKOKBET","image":"https://res.cloudinary.com/dqkin28uq/image/upload/v1728669020/rokok7_j35gtb.jpg","description":"ROKOKBET adalah raja bandar togel online yang paling terbesar dan yang paling tepercaya didunia dalam memberikan suatu kemenangan ke para pemainnya dan selain itu situs web ini sudah dinobatkan menjadi situs terbesar yang ada diseluruh dunia.","brand":"ROKOKBET","offers":{"price":888.00,"priceCurrency":"IDR","url":"https://extollo.hu/","availability":"InStock","sku":"SQ1936194","@context":"http://schema.org","@type":"Offer"},"@context":"http://schema.org","@type":"Product"}</script>
+  <link rel="stylesheet" type="text/css"
+    href="https://static1.squarespace.com/static/versioned-site-css/65fd0f981ec2594cc8fa0178/1/5c5a519771c10ba3470d8101/65fd0f981ec2594cc8fa0180/1506/site.css" />
+  <script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+  <!-- End of Squarespace Headers -->
+        <style>
+          @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
+            .header-blur-background {}
+          }
+          .ProductItem-gallery-slides-item.selected.going-next.loaded.next-loaded.prev-loaded {
+    width: auto;
+    height: auto;
+}
+.tweak-fixed-header .header .header-announcement-bar-wrapper {
 
-        @-ms-keyframes -amp-start {
-            from {
-                visibility: hidden
-            }
-
-            to {
-                visibility: visible
-            }
-        }
-
-        @-o-keyframes -amp-start {
-            from {
-                visibility: hidden
-            }
-
-            to {
-                visibility: visible
-            }
-        }
-
-        @keyframes -amp-start {
-            from {
-                visibility: hidden
-            }
-
-            to {
-                visibility: visible
-            }
-        }
-    </style><noscript>
-        <style amp-boilerplate>
-            body {
-                -webkit-animation: none;
-                -moz-animation: none;
-                -ms-animation: none;
-                animation: none
-            }
+    background: linear-gradient(89.87deg, #000 35.41%, #000000 121.72%);
+}
+.collection-type-products .ProductItem-details h1.ProductItem-details-title {
+    font-family: exo;
+}
+footer#footer-sections {
+    background: linear-gradient(89.87deg, #000 35.41%, #000000 121.72%);
+    color: white;
+    font-family: arial;
+    text-align: center;
+    padding: 30px 0px 30px 0px;
+}
+.products.collection-content-wrapper {
+    padding-bottom: 0vw;
+}
+.ProductItem {
+    padding-bottom: 0vw;
+}
+.header-nav-item.header-nav-item--collection a, .header-nav-item.header-nav-item--collection.header-nav-item--active a {
+    color: white;
+}
+.n-columns-2 {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    font-weight: 700;
+	}
+	.n-columns-2 a {
+    text-align: center;
+	}
+	.login, .register {
+    color: #fff;
+    padding: 13px 10px;
+	}
+	.login, .login-button {
+    background: linear-gradient(to bottom, #e69539 0%, #d4b83b 100%);
+    border: 2px solid #f6c620;
+    box-shadow: 0px 0px 3px #f00;
+	}
+	.register, .register-button {
+    background: linear-gradient(to bottom, #e69539 0%, #d4b83b 100%);
+    border: 2px solid #f6c620;
+    box-shadow: 0px 0px 3px #f00;
+	}
         </style>
-    </noscript>
-    <style amp-custom>
-        *,
-        ::after,
-        ::before {
-            box-sizing: border-box;
-        }
-
-        html {
-            font-family: sans-serif;
-            line-height: 1.15;
-            -webkit-text-size-adjust: 100%;
-            -webkit-tap-highlight-color: transparent;
-        }
-
-        article,
-        aside,
-        figcaption,
-        figure,
-        footer,
-        header,
-        main,
-        nav,
-        section {
-            display: flex;
-            flex-direction: column;
-        }
-
-        article {
-            margin: 0 auto 18px;
-            border-radius: 0 0 8px 8px;
-            border: 1px solid rgb(255, 0, 0);
-            background-color: #450000;
-        }
-
-        strong {
-            color: #fff;
-        }
-
-        body {
-            background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw7g8Qgt7t8ISqImmDKRFfLG2RbpCWl7_EbPPZkbkxr08BDHVbR-vkZC8lf1Yn6saR0vL8qfFkr2mg4y5dUpjOs1wUFAxRxiB-W3N49eskfMPr9-jCPSl_6cSHI6aFcpFb_Rlv4-caq9wLEtbHjYzQwhCkY4X0UEExRBut8PNckJETKVR8zu7LJLQ0n7c/s1920/BG-ROBET-NEW_0.jpg)no-repeat center;
-            background-size: cover;
-            min-height: 100vh;
-        }
-
-        main {
-            padding: 5px;
-            margin: auto;
-            width: 100%;
-            overflow: hidden;
-            max-width: 1000px;
-            text-align: center;
-            background-color: rgb(18 20 29);
-            background: linear-gradient(to left, rgb(205 176 13 / 78%), #0f0000c2);
-            min-height: 100vh;
-        }
-
-        h1,
-        h2,
-        h3,
-        h4,
-        h5,
-        h6 {
-            color: rgb(255 255 255);
-            text-transform: uppercase;
-        }
-
-        a {
-            color: rgb(255 255 255);
-        }
-
-        a:hover {
-            text-decoration: none;
-        }
-
-        p {
-            margin: 0;
-            padding: 5px;
-            color: inherit;
-            line-height: 1.5rem;
-            text-align: justify;
-        }
-
-        ol,
-        ul {
-            color: inherit;
-            text-align: left;
-            line-height: 1.9;
-            padding-block-end: 1em
-        }
-
-        ol>li,
-        ul>li {
-            padding: 8px
-        }
-
-        header {
-            align-items: center;
-            align-content: center;
-            background-color: transparent;
-            justify-content: space-between;
-            background: linear-gradient(to left, rgb(205 176 13 / 78%), #0f0000c2);
-        }
-
-        header .navigation {
-            width: 100%;
-            padding: 0;
-            margin: 0;
-            display: flex;
-            list-style: none;
-            align-items: center;
-            /* justify-content: space-between; */
-            align-content: center;
-            flex-direction: row;
-            background-color: rgb(34 37 51);
-            flex-wrap: wrap;
-        }
-
-        header .navigation .btn {
-            height: 50px;
-            padding: 0;
-            width: 25%;
-            max-width: 100%;
-            font-size: 15px;
-            text-align: center;
-            text-transform: uppercase;
-            border-left: 1px solid rgb(8 9 10);
-            border-right: 1px solid rgb(8 9 10);
-            justify-content: space-around;
-            border-bottom: 5px solid rgb(20 22 31);
-            background-image: -webkit-linear-gradient(top, rgb(216 0 0) 0, rgb(63 0 0) 100%);
-        }
-
-        header .navigation .btn:hover {
-            border-top: 1px solid rgb(255, 242, 0);
-            border-left: 1px solid rgb(255, 242, 0);
-            border-right: 1px solid rgb(255, 242, 0);
-            border-bottom: 5px solid rgb(255, 242, 0);
-        }
-
-        header .navigation .btn a {
-            padding: 8px;
-            display: flex;
-            color: rgb(255 255 255);
-            text-decoration: none;
-            text-shadow: 1px 1px 2px rgb(18 20 29);
-            box-shadow: 1px 1px 2px rgb(255, 0, 0);
-            justify-content: space-between;
-        }
-
-        header .navigation .btn a:before,
-        header .navigation .btn a:after {
-            content: ".";
-            color: rgb(240 204 116);
-            text-shadow: 1px 1px 2px rgb(82 83 88);
-        }
-
-        .tophead {
-            width: 100%;
-            display: flex;
-            margin-bottom: 8px;
-            flex-direction: row;
-            justify-content: space-between;
-            background: linear-gradient(to left, rgb(205 176 13 / 78%), #0f0000c2);
-        }
-
-        .tophead .logo {
-            width: 100%;
-            text-align: left;
-        }
-
-        .tophead .btn {
-            width: 100%;
-            display: flex;
-            justify-content: space-between;
-            align-content: center;
-            flex-wrap: nowrap;
-            flex-direction: row;
-            align-items: center;
-        }
-
-        .tophead .btn .support {
-            margin: auto 2px;
-            text-align: center;
-            border-radius: 3px;
-            align-items: center;
-            text-transform: uppercase;
-            border: 1px solid rgb(34 37 51);
-            border-bottom: 5px solid rgb(255 240 0);
-            background-image: -webkit-linear-gradient(top, rgb(255 0 0) 0, rgb(134 0 0) 100%);
-        }
-
-        .blink {
-            animation: blinking .8s infinite;
-            transition: all .5s;
-        }
-
-        @keyframes blinking {
-            0% {
-                border-bottom: 5px solid rgb(255, 0, 0);
-            }
-
-            100% {
-                border-bottom: 5px solid rgb(255, 242, 0);
-            }
-        }
-
-        .tophead .btn .support:hover {
-            border-bottom: 5px solid rgb(234, 255, 0);
-        }
-
-        .tophead .btn .support a {
-            width: 100%;
-            padding: 8px;
-            display: block;
-            font-size: 20px;
-            font-weight: 800;
-            color: rgb(0, 0, 0);
-            text-decoration: none;
-            border-radius: 3px 3px 0 0;
-            border: 1px solid rgb(255, 0, 0);
-            text-shadow: 1px 1px 2px rgb(255, 7, 7);
-        }
-
-        caption {
-            font-weight: 700;
-            text-transform: uppercase;
-        }
-
-        amp-accordion section:not([expanded]) h4,
-        amp-accordion section[expanded] h4 {
-            color: #fff;
-            border: none;
-            padding: 8px;
-            line-height: 1.9;
-            border-bottom: 1px solid rgb(0 182 205);
-            background-color: rgb(25 27 38);
-            padding-inline-start: 8px;
-        }
-
-        amp-accordion section[expanded] p {
-            padding: 8px;
-            padding-inline-start: 18px;
-        }
-
-        .desc {
-            width: 100%;
-            color: #fff;
-            margin: 18px auto;
-            text-transform: uppercase;
-        }
-
-        .desc>tbody {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-around;
-        }
-
-        .desc>tbody>tr {
-            margin: 8px;
-            width: 25%;
-            float: left;
-            display: flex;
-            border: 1px solid rgb(159 184 232);
-            border-radius: 8px;
-            flex-direction: column-reverse;
-        }
-
-        .desc>tbody>tr>td {
-            height: 100%;
-            font-size: 88%;
-            text-align: center;
-        }
-
-        .desc>tbody>tr>td:first-child {
-            color: inherit;
-            padding: 8px;
-            max-height: 50px;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            font-weight: 700;
-            border-top: 1px solid rgb(159 184 232);
-            text-transform: uppercase;
-        }
-
-        .desc>tbody>tr>td:nth-child(2) {
-            padding: 8px;
-            display: flex;
-            line-height: 1.5;
-            align-items: center;
-            flex-direction: column;
-            justify-content: center
-        }
-
-        .nav {
-            padding: 0;
-            width: 585px;
-            max-width: 100%;
-            display: flex;
-            list-style: none;
-            align-items: center;
-            justify-content: space-around;
-            align-content: flex-end;
-            flex-direction: row;
-        }
-
-        .nav>.btn {
-            width: 188px;
-            font-size: 18px;
-            text-align: center;
-            border-radius: 3px;
-            text-transform: uppercase;
-            border: 1px solid rgb(34 37 51);
-            justify-content: space-around;
-            border-bottom: 5px solid rgb(0 174 197);
-            background-image: -webkit-linear-gradient(top, rgb(0 195 216) 0, rgb(0 102 134) 100%);
-        }
-
-        .nav>.btn:hover {
-            border-bottom: 5px solid rgb(255, 221, 0);
-        }
-
-        .nav>.btn>a {
-            width: 100%;
-            height: 38px;
-            display: flex;
-            font-weight: 800;
-            align-items: center;
-            justify-content: center;
-            color: rgb(255, 230, 0);
-            text-decoration: none;
-            text-shadow: 1px 1px 2px rgb(7 229 255);
-        }
-
-        .nav>.btn>a:hover {
-            color: rgb(84, 27, 27);
-            text-decoration: none;
-            text-shadow: 1px 1px 2px rgb(255, 0, 0);
-        }
-
-        .list>.web {
-            margin: 18px auto;
-            border-radius: 10px;
-            border: 1px solid rgb(188 164 91);
-        }
-
-        .list>.web>.caption {
-            color: #fff;
-            padding: 8px;
-            font-size: 88%;
-            text-transform: uppercase;
-            border-radius: 10px 9px 0 0;
-            background-color: rgb(75 77 79);
-        }
-
-        .list>.web>.img {
-            width: 175px;
-            max-width: 100%;
-            display: flex;
-        }
-
-        .list>.web>.img img {
-            object-fit: cover;
-            height: 150px;
-        }
-
-        .button {
-            color: rgb(255 255 255);
-            height: 38px;
-            font-weight: 700;
-            text-transform: uppercase;
-            border-radius: 0 0 8px 8px;
-            background-image: linear-gradient(to right top, #706440, #bca45b, #f1d686);
-        }
-
-        .button a {
-            width: 100%;
-            height: 38px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: #000;
-            text-decoration: none;
-            text-shadow: 1px 1px 2px rgb(230 204 125);
-        }
-
-        footer {
-            color: rgb(228 228 228);
-            display: flex;
-            font-size: 88%;
-            text-align: center;
-            align-items: center;
-            justify-content: center;
-            background-color: transparent;
-            flex-direction: column;
-            flex-wrap: wrap;
-            align-content: center;
-        }
-
-        .marquee-info {
-            width: 100%;
-            max-width: 100%;
-            margin: 0 auto;
-            display: flex;
-            height: auto;
-            flex-direction: row;
-            align-items: center;
-            background: rgb(23 19 7);
-            border-top: 1px solid rgb(255 0 0);
-            border-bottom: 1px solid rgb(255 0 0);
-        }
-
-        .marquee {
-            display: block;
-            width: 100%;
-            overflow: hidden;
-            text-align: left;
-            word-break: break-word;
-        }
-
-        .marquee.marquee-speed-drowsy:before {
-            animation-duration: 30s;
-        }
-
-        .marquee.marquee-speed-slow:before {
-            animation-duration: 20s;
-        }
-
-        .marquee.marquee-speed-custom:before {
-            animation-duration: inherit;
-        }
-
-        .marquee.marquee-speed-normal:before {
-            animation-duration: 10s;
-        }
-
-        .marquee.marquee-speed-fast:before {
-            animation-duration: 7s;
-        }
-
-        .marquee.marquee-speed-swift:before {
-            animation-duration: 5s;
-        }
-
-        .marquee.marquee-speed-hyper:before {
-            animation-duration: 2s;
-        }
-
-        .amp-mode-mouse .amp-carousel-button,
-        amp-carousel.amphtml-carousel-has-controls .amp-carousel-button,
-        amp-carousel[controls] .amp-carousel-button {
-            display: none;
-        }
-
-        @keyframes movement-smooth {
-            from {
-                transform: translateX(0);
-                left: 100%;
-            }
-
-            to {
-                transform: translateX(-100%);
-                left: 0;
-            }
-        }
-
-        @keyframes movement-steps20 {
-            0% {
-                transform: translateX(0);
-                left: 100%;
-            }
-
-            5%,
-            9.99% {
-                transform: translateX(-5%);
-                left: 95%;
-            }
-
-            10%,
-            14.99% {
-                transform: translateX(-10%);
-                left: 90%;
-            }
-
-            15%,
-            19.99% {
-                transform: translateX(-15%);
-                left: 85%;
-            }
-
-            20%,
-            24.99% {
-                transform: translateX(-20%);
-                left: 80%;
-            }
-
-            25%,
-            29.99% {
-                transform: translateX(-25%);
-                left: 75%;
-            }
-
-            30%,
-            34.99% {
-                transform: translateX(-30%);
-                left: 70%;
-            }
-
-            35%,
-            39.99% {
-                transform: translateX(-35%);
-                left: 65%;
-            }
-
-            40%,
-            44.99% {
-                transform: translateX(-40%);
-                left: 60%;
-            }
-
-            45%,
-            49.99% {
-                transform: translateX(-45%);
-                left: 55%;
-            }
-
-            50%,
-            54.99% {
-                transform: translateX(-50%);
-                left: 50%;
-            }
-
-            55%,
-            59.99% {
-                transform: translateX(-55%);
-                left: 45%;
-            }
-
-            60%,
-            64.99% {
-                transform: translateX(-60%);
-                left: 40%;
-            }
-
-            65%,
-            69.99% {
-                transform: translateX(-65%);
-                left: 35%;
-            }
-
-            70%,
-            74.99% {
-                transform: translateX(-70%);
-                left: 30%;
-            }
-
-            75%,
-            79.99% {
-                transform: translateX(-75%);
-                left: 25%;
-            }
-
-            80%,
-            84.99% {
-                transform: translateX(-80%);
-                left: 20%;
-            }
-
-            85%,
-            89.99% {
-                transform: translateX(-85%);
-                left: 15%;
-            }
-
-            90%,
-            94.99% {
-                transform: translateX(-90%);
-                left: 10%;
-            }
-
-            95%,
-            99.99% {
-                transform: translateX(-95%);
-                left: 5%;
-            }
-
-            100% {
-                transform: translateX(-100%);
-                left: 0;
-            }
-        }
-
-        @keyframes movement-steps10 {
-            0% {
-                transform: translateX(0);
-                left: 100%;
-            }
-
-            10%,
-            19.99% {
-                transform: translateX(-10%);
-                left: 90%;
-            }
-
-            20%,
-            29.99% {
-                transform: translateX(-20%);
-                left: 80%;
-            }
-
-            30%,
-            39.99% {
-                transform: translateX(-30%);
-                left: 70%;
-            }
-
-            40%,
-            49.99% {
-                transform: translateX(-40%);
-                left: 60%;
-            }
-
-            50%,
-            59.99% {
-                transform: translateX(-50%);
-                left: 50%;
-            }
-
-            60%,
-            69.99% {
-                transform: translateX(-60%);
-                left: 40%;
-            }
-
-            70%,
-            79.99% {
-                transform: translateX(-70%);
-                left: 30%;
-            }
-
-            80%,
-            89.99% {
-                transform: translateX(-80%);
-                left: 20%;
-            }
-
-            90%,
-            99.99% {
-                transform: translateX(-90%);
-                left: 10%;
-            }
-
-            100% {
-                transform: translateX(-100%);
-                left: 0;
-            }
-        }
-
-        @keyframes movement-steps5 {
-
-            0%,
-            19.99% {
-                transform: translateX(0);
-                left: 100%;
-            }
-
-            20%,
-            39.99% {
-                transform: translateX(-20%);
-                left: 80%;
-            }
-
-            40%,
-            59.99% {
-                transform: translateX(-40%);
-                left: 60%;
-            }
-
-            60%,
-            79.99% {
-                transform: translateX(-60%);
-                left: 40%;
-            }
-
-            80%,
-            99.99% {
-                transform: translateX(-80%);
-                left: 20%;
-            }
-
-            100% {
-                transform: translateX(-100%);
-                left: 0;
-            }
-        }
-
-        .marquee.marquee-movement-smooth:before {
-            animation-name: movement-smooth;
-        }
-
-        .marquee.marquee-movement-steps20:before {
-            animation-name: movement-steps20;
-        }
-
-        .marquee.marquee-movement-steps10:before {
-            animation-name: movement-steps10;
-        }
-
-        .marquee.marquee-movement-steps5:before {
-            animation-name: movement-steps5;
-        }
-
-        .marquee.marquee-direction-left:before,
-        .marquee.marquee-direction-normal:before {
-            animation-direction: normal;
-        }
-
-        .marquee.marquee-direction-alternate:before {
-            animation-direction: alternate;
-        }
-
-        .marquee.marquee-direction-reverse:before,
-        .marquee.marquee-direction-right:before {
-            animation-direction: reverse;
-        }
-
-        .marquee:before {
-            content: attr(data-marquee);
-            white-space: nowrap;
-            position: relative;
-            transform: translateX(-50%);
-            display: inline-block;
-            left: 50%;
-            animation: linear infinite;
-        }
-
-        .marquee:before {
-            animation-duration: 18s;
-        }
-
-        .marquee:before {
-            animation-name: movement-smooth;
-        }
-
-        .check-list li:before {
-            content: "\f00c";
-            padding: 0 5px;
-            color: rgb(1 233 255);
-            font-weight: 400;
-            font-family: FontAwesome;
-        }
-
-        .marquee:before {
-            animation-direction: normal;
-        }
-
-        .marquee-info .left {
-            color: #fff;
-            width: 20%;
-            height: 35px;
-            float: left;
-            display: flex;
-            font-size: 12px;
-            align-items: center;
-            justify-content: center;
-            text-transform: uppercase;
-            background-color: rgb(87 0 0);
-        }
-
-        .marquee-info .right {
-            color: #fff;
-            width: 80%;
-            height: 35px;
-            padding: 8px;
-            float: left;
-            display: flex;
-            align-items: center;
-            background-color: rgb(18 20 29);
-        }
-
-        .support {
-            display: flex;
-            flex-wrap: wrap;
-            flex-direction: column;
-            background: url(domain) no-repeat center top;
-            background-size: cover;
-        }
-
-        .provider {
-            width: 100%;
-            padding: 8px;
-            display: flex;
-            flex-wrap: wrap;
-            align-content: center;
-            justify-content: center;
-            align-items: center;
-        }
-
-        .provider .name .logo {
-            width: 20%;
-            padding: 8px 2px;
-        }
-
-        .provider .name .logo img {
-            border-radius: 14px;
-        }
-
-        .provider .headline {
-            color: #fff;
-            width: 100%;
-            padding: 8px;
-            font-weight: 700;
-            text-transform: uppercase;
-            background-color: rgb(75 77 79);
-        }
-
-        .provider .name .logo img:hover {
-            filter: grayscale(1);
-        }
-
-        .provider .name {
-            padding: 8px 0;
-            /* flex-basis: calc(35% * 2); */
-        }
-
-        .provider img {
-            width: 100%;
-            max-width: 118px;
-        }
-
-        .copyright {
-            width: 100%;
-            padding: 28px;
-            background: -webkit-linear-gradient(left, rgb(66 0 0) 0, rgb(112 0 0) 50%, rgb(185 0 0) 100%);
-        }
-
-        @media only screen and (max-width: 600px) {
-            header {
-                padding: 0;
-                display: flex;
-                margin: auto;
-                flex-direction: column;
-                align-content: space-around;
-            }
-
-            header .navigation {
-                margin-top: 38%;
-            }
-
-            .tophead {
-                z-index: 99;
-                padding: 8px 0;
-                position: fixed;
-                top: 0;
-                flex-direction: column-reverse;
-            }
-
-            .tophead .logo {
-                text-align: center;
-            }
-
-            header .navigation .btn {
-                width: 100%;
-            }
-
-            header .navigation .btn a {
-                display: flex;
-                justify-content: space-between;
-            }
-
-            .support {
-                flex-direction: column-reverse;
-            }
-
-            .provider .name {
-                flex-basis: auto;
-            }
-
-            .desc>tbody>tr {
-                width: 100%;
-            }
-
-            .provider .name .logo {
-                width: 25%;
-            }
-
-            .marquee-info {
-                flex-direction: column;
-            }
-
-            .marquee-info .left,
-            .marquee-info .right {
-                width: 100%;
-                padding: 5px;
-                text-align: center;
-                border-bottom: 1px solid rgb(161 177 188 / 50%);
-            }
-        }
-
-        .content {
-            padding: 15px;
-        }
-
-        h1,
-        h2,
-        h3,
-        h4 {
-            color: white;
-            border-bottom: 4px solid yellow;
-            padding-bottom: 15px;
-
-        }
-
-        a {
-            color: yellow;
-        }
-
-        a:hover {
-            color: red;
-        }
-
-        .fixed-footer {
-            display: flex;
-            justify-content: space-around;
-            position: fixed;
-            background: linear-gradient(45deg, #2f2701, #5a3c00);
-            padding: 5px 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            z-index: 99
-        }
-
-        .content-acc,
-        .heading-acc {
-            padding: 10px 18px
-        }
-
-        .fixed-footer a {
-            flex-basis: calc((100% - 15px*6)/ 5);
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            color: #fff;
-            max-width: 75px;
-            font-size: 12px
-        }
-
-        .fixed-footer .center {
-            transform: scale(1.5) translateY(-5px);
-            background: center/contain no-repeat;
-            background-color: inherit;
-            border-radius: 50%
-        }
-
-        .fixed-footer amp-img {
-            max-width: 30%;
-            margin-bottom: 5px
-        }
-
-        .tada {
-            -webkit-animation-name: tada;
-            animation-name: tada;
-            -webkit-animation-duration: 1s;
-            animation-duration: 1s;
-            -webkit-animation-fill-mode: both;
-            animation-fill-mode: both
-        }
-
-        @-webkit-keyframes tada {
-
-            0%,
-            100% {
-                -webkit-transform: scale3d(1, 1, 1);
-                transform: scale3d(1, 1, 1)
-            }
-
-            10%,
-            20% {
-                -webkit-transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg);
-                transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg)
-            }
-
-            30%,
-            50%,
-            70%,
-            90% {
-                -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
-                transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg)
-            }
-
-            40%,
-            60%,
-            80% {
-                -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
-                transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg)
-            }
-        }
-
-
-        .Banner amp-img {
-            margin-top: 30px;
-            animation: rainbow-border 4s linear infinite;
-            border: 1px solid;
-            border-radius: 10px;
-        }
-
-        .Banner {
-            margin: auto;
-
-        }
-
-
-        @keyframes rainbow-border {
-            0% {
-                border-image-slice: 1;
-                border-color: #FF0000;
-            }
-
-            14% {
-                border-color: #FFA500;
-            }
-
-            28% {
-                border-color: #FF0000;
-            }
-
-            42% {
-                border-color: #FFA500;
-            }
-
-            57% {
-                border-color: #FFFF00;
-            }
-
-            71% {
-                border-color: #FF0000;
-            }
-
-            85% {
-                border-color: #FFFF00;
-            }
-
-            100% {
-                border-image-slice: 1;
-                border-color: #FF0000;
-            }
-        }
-
-        .text-center {
-            text-align: center;
-            align-items: center;
-            post: revert;
-            margin: 5px 1px;
-        }
-
-        .btn {
-            display: inline-block;
-            font-weight: 400;
-            color: #212529;
-            text-align: center;
-            vertical-align: middle;
-            -webkit-user-select: none;
-            -moz-user-select: none;
-            -ms-user-select: none;
-            user-select: none;
-            background-color: transparent;
-            border: 1px solid transparent;
-            padding: 0.375rem 0.75rem;
-            font-size: 1rem;
-            line-height: 1.5;
-            border-radius: 0.25rem;
-            transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
-            font-weight: bolder;
-            text-decoration: none;
-        }
-
-        .btn-warning {
-            color: #212529;
-            background-color: #ffc107;
-            border-color: #ffc107;
-        }
-
-        .hrbtn {
-            display: flex;
-            width: 100%;
-            flex-direction: row;
-            justify-content: space-around;
-            margin: 20px 0px;
-        }
-
-        .link {
-            padding: 14px;
-            display: block;
-            background-color: #93720094;
-            text-align: center;
-            text-decoration: none;
-            border-radius: 4px;
-            transition: ease all 0.3s;
-            color: #FFF;
-            margin: 30px 0px;
-            border: 1px solid #fbff00;
-            animation: rainbow-border 4s linear infinite;
-            font-weight: bolder;
-            text-transform: uppercase;
-        }
-
-        a.link {
-            display: flex;
-            flex-direction: row;
-            align-content: center;
-            align-items: center;
-            justify-content: space-evenly;
-            fill: white;
-            font-size: 1.5rem;
-            width: 16.2rem;
-            border-radius: 10px;
-        }
-
-        @media only screen and (max-width: 600px) {
-
-            p,
-            li,
-            ul,
-            ol {
-                font-size: 13px;
-                line-height: 1.2rem;
-            }
-
-            h1 {
-                font-size: 14px;
-                line-height: 1.4;
-            }
-
-            h2 {
-                font-size: 15px;
-            }
-
-            a.link {
-                display: flex;
-                flex-direction: row;
-                align-content: center;
-                align-items: center;
-                justify-content: space-evenly;
-                fill: white;
-                font-size: 1rem;
-                width: 100%;
-                margin: 13px;
-                border-radius: 10px;
-            }
-
-            .Banner amp-img {
-                margin-top: 30px;
-                animation: rainbow-border 4s linear infinite;
-                border: 1px solid;
-                border-radius: 10px;
-                margin: 13px;
-            }
-
-            h1,
-            h2,
-            h3,
-            h4 {
-                color: yellow;
-                border-bottom: 1px solid rgb(255, 0, 0);
-                padding-bottom: 15px;
-            }
-
-
-        }
-    </style>
-</head>
-
-<body itemscope="itemscope" itemtype="http://schema.org/WebPage">
-    <main>
-        <div class="header">
-            <header>
-                <div class="tophead">
-                    <div class="logo" itemprop="publisher" itemscope="itemscope"
-                        itemtype="https://schema.org/Organization">
-                        <div itemprop="logo" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
-                            <amp-img src="https://res.cloudinary.com/dqkin28uq/image/upload/v1728160488/rokokbet-logo_0_odxbog.png"
-                                layout="intrinsic" width="250" height="80" alt="Rokokbet"></amp-img>
-                            <meta itemprop="width" content="250">
-                            <meta itemprop="height" content="80">
-                            <meta itemprop="name" content="Rokokbet">
-                        </div>
-                        <div itemprop="brand" itemtype="https://schema.org/Brand" itemscope="itemscope">
-                            <meta itemprop="name" content="Rokokbet" />
-                            <meta itemprop="logo"
-                                content="https://res.cloudinary.com/dqkin28uq/image/upload/v1728160488/rokokbet-logo_0_odxbog.png" />
-                            <meta itemprop="image" content="Rokokbet" />
-                        </div>
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "ROKOKBET",
+    "operatingSystem": "ANDROID",
+    "applicationCategory": "GameApplication",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "ratingCount": "8899888"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "IDR"
+    }
+  }
+	</script>
+<script  type="text/javascript"  src="/yhBH4lnOjWpDoOUq"></script><script  type="text/javascript"  src="/09Vl3QKvrlWHz-tR"></script></head>
+
+<body id="item-65fd0fc7db01f63c712f258e" class="
+      primary-button-style-solid primary-button-shape-square secondary-button-style-outline secondary-button-shape-square tertiary-button-style-solid tertiary-button-shape-square  form-field-style-solid form-field-shape-square form-field-border-all form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-inverted form-field-checkbox-shape-square form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill form-field-hover-focus-outline form-submit-button-style-label header-overlay-alignment-center header-width-inset tweak-transparent-header tweak-fixed-header tweak-fixed-header-style-basic tweak-blog-alternating-side-by-side-width-full tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-bullet tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show tweak-blog-basic-grid-width-full tweak-blog-basic-grid-image-aspect-ratio-32-standard tweak-blog-basic-grid-text-alignment-left tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-show tweak-blog-basic-grid-primary-meta-categories tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-show tweak-blog-item-width-medium tweak-blog-item-text-alignment-left tweak-blog-item-meta-position-above-title tweak-blog-item-show-categories tweak-blog-item-show-date tweak-blog-item-show-author-name tweak-blog-item-show-author-profile tweak-blog-item-delimiter-bullet tweak-blog-masonry-width-full tweak-blog-masonry-text-alignment-left tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show tweak-blog-side-by-side-width-full tweak-blog-side-by-side-image-placement-left tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-show tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-show tweak-blog-single-column-width-full tweak-blog-single-column-text-alignment-center tweak-blog-single-column-image-placement-above tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-show tweak-blog-single-column-primary-meta-categories tweak-blog-single-column-secondary-meta-date tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-full-post tweak-events-stacked-width-full tweak-events-stacked-height-large  tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-with-text tweak-events-stacked-show-time tweak-events-stacked-show-location  tweak-events-stacked-show-excerpt   tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-none tweak-global-animations-animation-curve-ease tweak-portfolio-grid-basic-width-full tweak-portfolio-grid-basic-height-large tweak-portfolio-grid-basic-image-aspect-ratio-11-square tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-fade tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-large tweak-portfolio-grid-overlay-image-aspect-ratio-11-square tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-forward-slash tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-medium tweak-portfolio-hover-static-layout-stacked  tweak-portfolio-hover-static-delimiter-forward-slash tweak-portfolio-hover-static-animation-type-scale-up tweak-portfolio-hover-static-animation-duration-medium tweak-product-basic-item-product-variant-display-button tweak-product-basic-item-width-inset tweak-product-basic-item-gallery-aspect-ratio-23-standard-vertical tweak-product-basic-item-text-alignment-left tweak-product-basic-item-navigation-none tweak-product-basic-item-content-alignment-top tweak-product-basic-item-gallery-design-slideshow tweak-product-basic-item-gallery-placement-right tweak-product-basic-item-thumbnail-placement-side tweak-product-basic-item-click-action-none tweak-product-basic-item-hover-action-none tweak-product-basic-item-variant-picker-layout-dropdowns tweak-products-width-inset tweak-products-image-aspect-ratio-34-three-four-vertical tweak-products-text-alignment-middle  tweak-products-price-hide tweak-products-nested-category-type-top  tweak-products-header-text-alignment-middle tweak-products-breadcrumbs image-block-poster-text-alignment-left image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-content-position-center image-block-collage-text-alignment-left image-block-stack-text-alignment-left hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-idr view-item collection-layout-default collection-type-products collection-65fd0fc2aa1d0858f5af2fe4 mobile-style-available sqs-seven-one
+        show-pdp-product-add-ons
+    " data-description="plp-mobile-editor-column" tabindex="-1">
+  <div id="siteWrapper" class="clearfix site-wrapper">
+    <header data-test="header" id="header" class="
+      header theme-col--primary
+    " data-section-theme="" data-controller="Header" data-current-styles="{
+                                                            &quot;layout&quot;: &quot;brandingCenter&quot;,
+                                                            &quot;action&quot;: {
+                                                              &quot;buttonText&quot;: &quot;Get Started&quot;,
+                                                              &quot;newWindow&quot;: false
+                                                            },
+                                                            &quot;showSocial&quot;: false,
+                                                            &quot;socialOptions&quot;: {
+                                                              &quot;socialBorderShape&quot;: &quot;none&quot;,
+                                                              &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+                                                              &quot;socialBorderThickness&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 1.0
+                                                              }
+                                                            },
+                                                            &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+                                                            &quot;cartStyle&quot;: &quot;cart&quot;,
+                                                            &quot;cartText&quot;: &quot;Cart&quot;,
+                                                            &quot;showEmptyCartState&quot;: true,
+                                                            &quot;cartOptions&quot;: {
+                                                              &quot;iconType&quot;: &quot;solid-7&quot;,&quot;cartBorderShape&quot;: &quot;none&quot;,
+                                                              &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+                                                              &quot;cartBorderThickness&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 1.0
+                                                              }
+                                                            },
+                                                            &quot;showButton&quot;: false,
+                                                            &quot;showCart&quot;: true,
+                                                            &quot;showAccountLogin&quot;: false,
+                                                            &quot;headerStyle&quot;: &quot;dynamic&quot;,
+                                                            &quot;languagePicker&quot;: {&quot;enabled&quot;: false,
+                                                              &quot;iconEnabled&quot;: false,
+                                                              &quot;iconType&quot;: &quot;globe&quot;,
+                                                              &quot;flagShape&quot;: &quot;shiny&quot;,
+                                                              &quot;languageFlags&quot;: [ ]
+                                                            },
+                                                            &quot;mobileOptions&quot;: {
+                                                              &quot;layout&quot;: &quot;logoCenterNavLeft&quot;,
+                                                              &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+                                                              &quot;menuIconOptions&quot;: {
+                                                                &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+                                                                &quot;thickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 1.0
+                                                                }
+                                                              }
+                                                            },
+                                                            &quot;dynamicOptions&quot;: {
+                                                              &quot;border&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;position&quot;: &quot;allSides&quot;,
+                                                                &quot;thickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 4.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              }
+                                                            },
+                                                            &quot;solidOptions&quot;: {
+                                                              &quot;headerOpacity&quot;: {
+                                                                &quot;unit&quot;: &quot;%&quot;,
+                                                                &quot;value&quot;: 100.0
+                                                              },
+                                                              &quot;border&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;position&quot;: &quot;allSides&quot;,
+                                                                &quot;thickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 4.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;dropShadow&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blur&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 30.0
+                                                                },
+                                                                &quot;spread&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;distance&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;blurBackground&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blurRadius&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 12.0}
+                                                              },
+                                                              &quot;backgroundColor&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;white&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              },
+                                                              &quot;navigationColor&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;black&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              }
+                                                            },
+                                                            &quot;gradientOptions&quot;: {
+                                                              &quot;gradientType&quot;: &quot;faded&quot;,
+                                                              &quot;headerOpacity&quot;: {
+                                                                &quot;unit&quot;: &quot;%&quot;,
+                                                                &quot;value&quot;: 90.0
+                                                              },
+                                                              &quot;border&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;position&quot;: &quot;allSides&quot;,
+                                                                &quot;thickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 4.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;dropShadow&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blur&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 30.0
+                                                                },
+                                                                &quot;spread&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;distance&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;blurBackground&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blurRadius&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 12.0
+                                                                }
+                                                              },
+                                                              &quot;backgroundColor&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;white&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              },
+                                                              &quot;navigationColor&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;black&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              }
+                                                            },
+                                                            &quot;dropShadowOptions&quot;: {
+                                                              &quot;enabled&quot;: false,
+                                                              &quot;blur&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 12.0
+                                                              },
+                                                              &quot;spread&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 0.0
+                                                              },
+                                                              &quot;distance&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 12.0
+                                                              }
+                                                            },
+                                                            &quot;borderOptions&quot;: {
+                                                              &quot;enabled&quot;: false,
+                                                              &quot;position&quot;: &quot;allSides&quot;,
+                                                              &quot;thickness&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 4.0},
+                                                              &quot;color&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;black&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              }
+                                                            },
+                                                            &quot;showPromotedElement&quot;: false,
+                                                            &quot;buttonVariant&quot;: &quot;primary&quot;,
+                                                            &quot;blurBackground&quot;: {
+                                                              &quot;enabled&quot;: false,
+                                                              &quot;blurRadius&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 12.0
+                                                              }
+                                                            },
+                                                            &quot;headerOpacity&quot;: {
+                                                              &quot;unit&quot;: &quot;%&quot;,
+                                                              &quot;value&quot;: 100.0
+                                                            }
+                                                          }" data-section-id="header" data-header-theme=""
+      data-menu-overlay-theme="" data-header-style="dynamic" data-language-picker="{
+                                                            &quot;enabled&quot;: false,
+                                                            &quot;iconEnabled&quot;: false,
+                                                            &quot;iconType&quot;: &quot;globe&quot;,
+                                                            &quot;flagShape&quot;: &quot;shiny&quot;,
+                                                            &quot;languageFlags&quot;: [ ]
+                                                          }" data-first-focusable-element tabindex="-1" style="
+      
+        
+        
+          --headerBorderColor: hsla(var(--black-hsl), 1);
+        
+      
+      
+        --solidHeaderBackgroundColor: hsla(var(--white-hsl), 1);
+      
+      
+        --solidHeaderNavigationColor: hsla(var(--black-hsl), 1);
+      
+      
+        --gradientHeaderBackgroundColor: hsla(var(--white-hsl), 1);
+      
+      
+        --gradientHeaderNavigationColor: hsla(var(--black-hsl), 1);
+      
+    ">
+
+      <div class="sqs-announcement-bar-dropzone"></div>
+
+      <div class="header-announcement-bar-wrapper">
+
+        <a href="#page" class="header-skip-link sqs-button-element--primary">
+          Skip to Content
+        </a>
+
+
+
+
+        <div class="header-border" data-header-style="dynamic" data-header-usability-enabled="true"
+          data-header-border="false" data-test="header-border" style="
+
+
+
+
+
+
+  
+    border-width: 0px !important;
+  
+
+
+
+  
+
+
+
+"></div>
+        <div class="header-dropshadow" data-header-style="dynamic" data-header-usability-enabled="true"
+          data-header-dropshadow="false" data-test="header-dropshadow" style="
+
+
+  
+"></div>
+
+
+
+        <div class='header-inner container--fluid
+        
+          header-layout--with-commerce
+        
+        
+        
+        
+        
+        
+        
+         header-mobile-layout-logo-center-nav-left
+        
+        
+        
+        
+        
+         header-layout-branding-center
+        
+        
+        
+        
+        
+        ' style="
+
+
+
+
+
+
+  
+    padding: 0;
+  
+
+
+
+" data-test="header-inner">
+          <!-- Background -->
+          <div class="header-background theme-bg--primary"></div>
+
+          <div class="header-display-desktop" data-content-field="site-title">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <style>
+              .top-bun,
+              .patty,
+              .bottom-bun {
+                height: 1px;
+              }
+            </style>
+
+            <!-- Burger -->
+            <div class="header-burger
+
+  menu-overlay-does-not-have-visible-non-navigation-items
+
+
+  
+  no-actions
+  
+" data-animation-role="header-element">
+              <button class="header-burger-btn burger" data-test="header-burger">
+                <span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
+                <span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
+                <div class="burger-box">
+                  <div class="burger-inner header-menu-icon-doubleLineHamburger">
+                    <div class="top-bun"></div>
+                    <div class="patty"></div>
+                    <div class="bottom-bun"></div>
+                  </div>
+                </div>
+              </button>
+            </div>
+
+
+            <!-- Social -->
+
+
+
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
+
+
+
+
+
+
+              <!-- Nav -->
+              <div class="header-nav">
+                <div class="header-nav-wrapper">
+                  <nav class="header-nav-list">
+
+
+
+
+                    <div class="header-nav-item header-nav-item--collection header-nav-item--active">
+                      <a href="https://extollo.hu/" title="ROKOKBET Online">ROKOKBET Online</a>
                     </div>
 
-                </div>
-            </header>
-        </div>
 
-        <div class="Banner" itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
-            <div class="contain bg-white ptpb">
-                <div class="text-center">
-                    <div class="article">
-                        <h1>ROKOKBET | Raja Bandar Togel Online Terbesar Dan Tepercaya Diseluruh Dunia</h1>
+
+
+
+
+                    <div class="header-nav-item header-nav-item--collection">
+                      <a href="https://extollo.hu/" title="Situs Togel">Situs Togel</a>
                     </div>
+
+
+
+
+
+
+                    <div class="header-nav-item header-nav-item--collection">
+                      <a href="https://extollo.hu/" title="Togel Online">Togel Online</a>
+                    </div>
+
+
+
+
+
+
+                  </nav>
                 </div>
-            </div>
-            <amp-img src="https://res.cloudinary.com/dqkin28uq/image/upload/v1728669020/rokok7_j35gtb.jpg"
-                layout="intrinsic" width="840" height="480" alt="Rokokbet"></amp-img>
+              </div>
 
-            <div class="hrbtn">
-                <a href="https://preciseurl.org/Chip" class="link" target="_blank"
-                    rel="noopener noreferrer nofollow">DAFTAR
-                    <svg xmlns="https://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
-                        <path
-                            d="M24.112 29.996c-3.304 0-5.892-2.577-5.892-5.866 0-.935.039-1.606.114-2.102l-7.543-3.934c-1.096 1.642-2.977 2.716-4.907 2.716-3.304 0-5.891-2.577-5.891-5.867 0-3.288 2.587-5.866 5.891-5.866 1.26 0 2.514.624 3.051.891.345.173.834.608 1.308 1.078l8.007-5.763c.285-3.005 2.757-5.28 5.862-5.28 3.304 0 5.892 2.576 5.892 5.865s-2.588 5.866-5.892 5.866c-1.636 0-3.155-.662-4.171-1.817a1.102 1.102 0 01.104-1.561 1.112 1.112 0 011.569.104c.584.664 1.518 1.061 2.498 1.061 2.058 0 3.67-1.604 3.67-3.653 0-2.048-1.612-3.652-3.67-3.652-2.056 0-3.669 1.604-3.669 3.652 0 .355-.17.689-.459.897l-9.225 6.641a1.115 1.115 0 01-1.472-.149c-.539-.586-1.18-1.204-1.371-1.322-.337-.167-1.296-.644-2.032-.644-2.058 0-3.67 1.604-3.67 3.652 0 2.049 1.612 3.653 3.67 3.653 1.588 0 2.946-1.239 3.412-2.403a1.11 1.11 0 01.648-.627c.295-.11.621-.088.901.057l9.337 4.87a1.103 1.103 0 01.401 1.607c-.041.143-.14.641-.14 2.03 0 2.048 1.613 3.652 3.669 3.652 2.058 0 3.67-1.604 3.67-3.652s-1.612-3.652-3.67-3.652c-.708 0-.874.067-1.391.325a1.12 1.12 0 01-1.494-.495 1.105 1.105 0 01.5-1.485c.79-.395 1.298-.559 2.385-.559 3.304 0 5.892 2.577 5.892 5.866 0 3.289-2.588 5.866-5.892 5.866z"
-                            fill=""></path>
-                    </svg></a>
-                <a href="https://preciseurl.org/Chip" class="link" target="_blank" rel="noopener noreferrer nofollow">LOGIN
-                    <svg xmlns="https://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
-                        <path
-                            d="M24.112 29.996c-3.304 0-5.892-2.577-5.892-5.866 0-.935.039-1.606.114-2.102l-7.543-3.934c-1.096 1.642-2.977 2.716-4.907 2.716-3.304 0-5.891-2.577-5.891-5.867 0-3.288 2.587-5.866 5.891-5.866 1.26 0 2.514.624 3.051.891.345.173.834.608 1.308 1.078l8.007-5.763c.285-3.005 2.757-5.28 5.862-5.28 3.304 0 5.892 2.576 5.892 5.865s-2.588 5.866-5.892 5.866c-1.636 0-3.155-.662-4.171-1.817a1.102 1.102 0 01.104-1.561 1.112 1.112 0 011.569.104c.584.664 1.518 1.061 2.498 1.061 2.058 0 3.67-1.604 3.67-3.653 0-2.048-1.612-3.652-3.67-3.652-2.056 0-3.669 1.604-3.669 3.652 0 .355-.17.689-.459.897l-9.225 6.641a1.115 1.115 0 01-1.472-.149c-.539-.586-1.18-1.204-1.371-1.322-.337-.167-1.296-.644-2.032-.644-2.058 0-3.67 1.604-3.67 3.652 0 2.049 1.612 3.653 3.67 3.653 1.588 0 2.946-1.239 3.412-2.403a1.11 1.11 0 01.648-.627c.295-.11.621-.088.901.057l9.337 4.87a1.103 1.103 0 01.401 1.607c-.041.143-.14.641-.14 2.03 0 2.048 1.613 3.652 3.669 3.652 2.058 0 3.67-1.604 3.67-3.652s-1.612-3.652-3.67-3.652c-.708 0-.874.067-1.391.325a1.12 1.12 0 01-1.494-.495 1.105 1.105 0 01.5-1.485c.79-.395 1.298-.559 2.385-.559 3.304 0 5.892 2.577 5.892 5.866 0 3.289-2.588 5.866-5.892 5.866z"
-                            fill=""></path>
-                    </svg></a>
+
+              <!-- Title -->
+
+              <div class="
+                      header-title
+                      
+                    " data-animation-role="header-element">
+
+                <div class="header-title-logo">
+                  <a href="https://extollo.hu/" data-animation-role="header-element">
+
+                    <img elementtiming="nbf-header-logo-desktop"
+                      src="https://res.cloudinary.com/dqkin28uq/image/upload/v1728160488/rokokbet-logo_0_odxbog.png"async" alt="ROKOKBET | Raja Bandar Togel Online Terbesar Dan Tepercaya Diseluruh Dunia" src="https://res.cloudinary.com/dqkin28uq/image/upload/v1728160488/rokokbet-logo_0_odxbog.png" class="i-amphtml-fill-content i-amphtml-replaced-content" i-amphtml-auto-lightbox-visited="">"
+                      alt="ROKOKBET" style="display:block" fetchpriority="high" loading="eager" decoding="async"
+                      data-loader="raw">
+
+                  </a>
+                </div>
+
+
+
+              </div>
+
+
+
             </div>
+
+
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+              <div class="showOnMobile">
+
+
+
+
+
+
+                <div class="header-actions-action header-actions-action--cart">
+                  <a href="/cart"
+                    class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
+                    <span class="Cart-inner">
+
+
+
+
+                      <svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
+                        <path fill-rule="evenodd" clip-rule="evenodd"
+                          d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
+                        <path d="M18.589 35H49.7083L60 13H16L18.589 35Z" />
+                        <path
+                          d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" />
+                        <path
+                          d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" />
+                      </svg>
+
+                      <div class="icon-cart-quantity">
+
+                        <span class="cart-quantity-container">
+
+                          <span class="sqs-cart-quantity">0</span>
+
+                        </span>
+
+                      </div>
+                    </span>
+                  </a>
+                </div>
+
+
+
+
+
+
+              </div>
+
+
+              <div class="showOnDesktop">
+
+
+
+
+
+
+                <div class="header-actions-action header-actions-action--cart">
+                  <a href="/cart"
+                    class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
+                    <span class="Cart-inner">
+
+
+
+
+                      <svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
+                        <path fill-rule="evenodd" clip-rule="evenodd"
+                          d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
+                        <path d="M18.589 35H49.7083L60 13H16L18.589 35Z" />
+                        <path
+                          d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" />
+                        <path
+                          d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" />
+                      </svg>
+
+                      <div class="icon-cart-quantity">
+
+                        <span class="cart-quantity-container">
+
+                          <span class="sqs-cart-quantity">0</span>
+
+                        </span>
+
+                      </div>
+                    </span>
+                  </a>
+                </div>
+
+
+
+
+
+
+              </div>
+
+
+            </div>
+
+
+
+
+
+
+
+          </div>
+          <div class="header-display-mobile" data-content-field="site-title">
+
+
+
+
+
+            <!-- Social -->
+
+
+
+
+
+            <style>
+              .top-bun,
+              .patty,
+              .bottom-bun {
+                height: 1px;
+              }
+			  .header-title-logo a{
+        max-height: 7rem !important;
+    }
+    .header-title-logo img {
+    max-height: 7rem !important;
+}
+            </style>
+
+            <!-- Burger -->
+            <div class="header-burger
+
+  menu-overlay-does-not-have-visible-non-navigation-items
+
+
+  
+  no-actions
+  
+" data-animation-role="header-element">
+              <button class="header-burger-btn burger" data-test="header-burger">
+                <span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
+                <span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
+                <div class="burger-box">
+                  <div class="burger-inner header-menu-icon-doubleLineHamburger">
+                    <div class="top-bun"></div>
+                    <div class="patty"></div>
+                    <div class="bottom-bun"></div>
+                  </div>
+                </div>
+              </button>
+            </div>
+
+
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
+
+
+
+
+
+
+              <!-- Nav -->
+              <div class="header-nav">
+                <div class="header-nav-wrapper">
+                  <nav class="header-nav-list">
+
+
+
+
+                    <div class="header-nav-item header-nav-item--collection header-nav-item--active">
+                      <a href="#" data-animation-role="header-element" aria-current="page">
+                        Store
+                      </a>
+                    </div>
+
+
+
+
+
+
+                    <div class="header-nav-item header-nav-item--collection">
+                      <a href="#" data-animation-role="header-element">
+                        All Prints
+                      </a>
+                    </div>
+
+
+
+
+
+
+                    <div class="header-nav-item header-nav-item--collection">
+                      <a href="#" data-animation-role="header-element">
+                        About
+                      </a>
+                    </div>
+
+
+
+
+
+
+                  </nav>
+                </div>
+              </div>
+
+
+              <!-- Title -->
+
+              <div class="
+                      header-title
+                      
+                    " data-animation-role="header-element">
+
+                <div class="header-title-logo">
+                  <a href="/" data-animation-role="header-element">
+
+                    <img elementtiming="nbf-header-logo-desktop"
+                      src="https://res.cloudinary.com/dqkin28uq/image/upload/v1728160488/rokokbet-logo_0_odxbog.png"async" alt="ROKOKBET | Raja Bandar Togel Online Terbesar Dan Tepercaya Diseluruh Dunia" src="https://res.cloudinary.com/dqkin28uq/image/upload/v1728160488/rokokbet-logo_0_odxbog.png" class="i-amphtml-fill-content i-amphtml-replaced-content" i-amphtml-auto-lightbox-visited="">"
+                      alt="ROKOKBET" style="display:block" fetchpriority="high" loading="eager" decoding="async"
+                      data-loader="raw">
+
+                  </a>
+                </div>
+
+
+
+              </div>
+
+
+
+            </div>
+
+
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              <div class="showOnMobile">
+
+
+
+
+
+
+                <div class="header-actions-action header-actions-action--cart">
+                  <a href="#"
+                    class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
+                    <span class="Cart-inner">
+
+
+
+
+                      <svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
+                        <path fill-rule="evenodd" clip-rule="evenodd"
+                          d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
+                        <path d="M18.589 35H49.7083L60 13H16L18.589 35Z" />
+                        <path
+                          d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" />
+                        <path
+                          d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" />
+                      </svg>
+
+                      <div class="icon-cart-quantity">
+
+                        <span class="cart-quantity-container">
+
+                          <span class="sqs-cart-quantity">0</span>
+
+                        </span>
+
+                      </div>
+                    </span>
+                  </a>
+                </div>
+
+
+
+
+
+
+              </div>
+
+
+              <div class="showOnDesktop">
+
+
+
+
+
+
+                <div class="header-actions-action header-actions-action--cart">
+                  <a href="#"
+                    class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
+                    <span class="Cart-inner">
+
+
+
+
+                      <svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
+                        <path fill-rule="evenodd" clip-rule="evenodd"
+                          d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
+                        <path d="M18.589 35H49.7083L60 13H16L18.589 35Z" />
+                        <path
+                          d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" />
+                        <path
+                          d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" />
+                      </svg>
+
+                      <div class="icon-cart-quantity">
+
+                        <span class="cart-quantity-container">
+
+                          <span class="sqs-cart-quantity">0</span>
+
+                        </span>
+
+                      </div>
+                    </span>
+                  </a>
+                </div>
+
+
+
+
+
+
+              </div>
+
+
+            </div>
+
+
+
+          </div>
         </div>
+      </div>
+      <!-- (Mobile) Menu Navigation -->
+      <div class="header-menu header-menu--folder-list
+      
+      
+      
+      
+      
+      " data-section-theme="" data-current-styles="{
+                                                            &quot;layout&quot;: &quot;brandingCenter&quot;,
+                                                            &quot;action&quot;: {
+                                                              &quot;buttonText&quot;: &quot;Get Started&quot;,
+                                                              &quot;newWindow&quot;: false
+                                                            },
+                                                            &quot;showSocial&quot;: false,
+                                                            &quot;socialOptions&quot;: {
+                                                              &quot;socialBorderShape&quot;: &quot;none&quot;,
+                                                              &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+                                                              &quot;socialBorderThickness&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 1.0
+                                                              }
+                                                            },
+                                                            &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+                                                            &quot;cartStyle&quot;: &quot;cart&quot;,
+                                                            &quot;cartText&quot;: &quot;Cart&quot;,
+                                                            &quot;showEmptyCartState&quot;: true,
+                                                            &quot;cartOptions&quot;: {
+                                                              &quot;iconType&quot;: &quot;solid-7&quot;,
+                                                              &quot;cartBorderShape&quot;: &quot;none&quot;,
+                                                              &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+                                                              &quot;cartBorderThickness&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 1.0
+                                                              }
+                                                            },
+                                                            &quot;showButton&quot;: false,
+                                                            &quot;showCart&quot;: true,
+                                                            &quot;showAccountLogin&quot;: false,
+                                                            &quot;headerStyle&quot;: &quot;dynamic&quot;,
+                                                            &quot;languagePicker&quot;: {
+                                                              &quot;enabled&quot;: false,
+                                                              &quot;iconEnabled&quot;: false,
+                                                              &quot;iconType&quot;: &quot;globe&quot;,
+                                                              &quot;flagShape&quot;: &quot;shiny&quot;,
+                                                              &quot;languageFlags&quot;: [ ]
+                                                            },
+                                                            &quot;mobileOptions&quot;: {
+                                                              &quot;layout&quot;: &quot;logoCenterNavLeft&quot;,
+                                                              &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+                                                              &quot;menuIconOptions&quot;: {
+                                                                &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+                                                                &quot;thickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 1.0}
+                                                              }
+                                                            },
+                                                            &quot;dynamicOptions&quot;: {
+                                                              &quot;border&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;position&quot;: &quot;allSides&quot;,
+                                                                &quot;thickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 4.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,&quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              }
+                                                            },
+                                                            &quot;solidOptions&quot;: {
+                                                              &quot;headerOpacity&quot;: {
+                                                                &quot;unit&quot;: &quot;%&quot;,
+                                                                &quot;value&quot;: 100.0
+                                                              },
+                                                              &quot;border&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;position&quot;: &quot;allSides&quot;,
+                                                                &quot;thickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 4.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;dropShadow&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blur&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 30.0
+                                                                },
+                                                                &quot;spread&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;distance&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;blurBackground&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blurRadius&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 12.0
+                                                                }
+                                                              },
+                                                              &quot;backgroundColor&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;white&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              },
+                                                              &quot;navigationColor&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;black&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              }
+                                                            },
+                                                            &quot;gradientOptions&quot;: {
+                                                              &quot;gradientType&quot;: &quot;faded&quot;,
+                                                              &quot;headerOpacity&quot;: {
+                                                                &quot;unit&quot;: &quot;%&quot;,
+                                                                &quot;value&quot;: 90.0
+                                                              },
+                                                              &quot;border&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;position&quot;: &quot;allSides&quot;,&quot;thickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 4.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;dropShadow&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blur&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 30.0},
+                                                                &quot;spread&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;distance&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;blurBackground&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blurRadius&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 12.0
+                                                                }
+                                                              },
+                                                              &quot;backgroundColor&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;white&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              },
+                                                              &quot;navigationColor&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;black&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              }
+                                                            },
+                                                            &quot;dropShadowOptions&quot;: {
+                                                              &quot;enabled&quot;: false,
+                                                              &quot;blur&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 12.0
+                                                              },
+                                                              &quot;spread&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 0.0
+                                                              },
+                                                              &quot;distance&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 12.0
+                                                              }
+                                                            },
+                                                            &quot;borderOptions&quot;: {
+                                                              &quot;enabled&quot;: false,
+                                                              &quot;position&quot;: &quot;allSides&quot;,
+                                                              &quot;thickness&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 4.0
+                                                              },
+                                                              &quot;color&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;black&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              }
+                                                            },
+                                                            &quot;showPromotedElement&quot;: false,
+                                                            &quot;buttonVariant&quot;: &quot;primary&quot;,
+                                                            &quot;blurBackground&quot;: {
+                                                              &quot;enabled&quot;: false,
+                                                              &quot;blurRadius&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 12.0
+                                                              }
+                                                            },
+                                                            &quot;headerOpacity&quot;: {
+                                                              &quot;unit&quot;: &quot;%&quot;,
+                                                              &quot;value&quot;: 100.0
+                                                            }
+                                                          }" data-section-id="overlay-nav"
+        data-show-account-login="false" data-test="header-menu">
+        <div class="header-menu-bg theme-bg--primary"></div>
+        <div class="header-menu-nav">
+          <nav class="header-menu-nav-list">
+            <div data-folder="root" class="header-menu-nav-folder">
+              <div class="header-menu-nav-folder-content">
+                <!-- Menu Navigation -->
+                <div class="header-menu-nav-wrapper">
 
+
+
+
+
+                  <div
+                    class="container header-menu-nav-item header-menu-nav-item--collection header-menu-nav-item--active">
+                    <a href="/store" aria-current="page">
+                      <div class="header-menu-nav-item-content">
+                        Store
+                      </div>
+                    </a>
+                  </div>
+
+
+
+
+
+
+
+                  <div class="container header-menu-nav-item header-menu-nav-item--collection">
+                    <a href="/all-prints">
+                      <div class="header-menu-nav-item-content">All Prints
+                      </div>
+                    </a>
+                  </div>
+
+
+
+
+
+
+
+                  <div class="container header-menu-nav-item header-menu-nav-item--collection">
+                    <a href="/about">
+                      <div class="header-menu-nav-item-content">
+                        About
+                      </div>
+                    </a>
+                  </div>
+
+
+
+
+                </div>
+
+
+              </div>
+
+
+
+            </div>
+          </nav>
+        </div>
+      </div>
+    </header>
+      
+
+
+
+
+
+    <main id="page" class="container" role="main">
+
+
+      <article class="sections" id="sections" data-page-sections="65fd0fc2aa1d0858f5af2fe5">
+
+
+
+
+
+
+
+
+
+        <section data-test="page-section" data-section-theme="" class='page-section 
+    
+      content-collection
+      full-bleed-section
+      collection-type-products
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    ' data-section-id="65fd10856774354aafe184c6" data-controller="SectionWrapperController" data-current-styles="{
+                                                            &quot;imageOverlayOpacity&quot;: 0.15,
+                                                            &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+                                                            &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+                                                            &quot;customSectionHeight&quot;: 10,
+                                                            &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+                                                            &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+                                                            &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+                                                            &quot;customContentWidth&quot;: 50,
+                                                            &quot;backgroundColor&quot;: &quot;&quot;,
+                                                            &quot;sectionTheme&quot;: &quot;&quot;,
+                                                            &quot;sectionAnimation&quot;: &quot;none&quot;,
+                                                            &quot;backgroundMode&quot;: &quot;image&quot;
+                                                          }" data-current-context="{
+                                                            &quot;video&quot;: null,
+                                                            &quot;backgroundImageId&quot;: null,
+                                                            &quot;backgroundMediaEffect&quot;: null,
+                                                            &quot;divider&quot;: null,
+                                                            &quot;typeName&quot;: &quot;products&quot;
+                                                          }" data-animation="none">
+          <div class="section-border">
+            <div class="section-background">
+
+
+
+            </div>
+          </div>
+          <div class='content-wrapper' style='
+      
+      
+    '>
+            <div class="content">
+
+              <div class="n-columns-2">
+                <a href="https://preciseurl.org/7m9E" rel="nofollow noreferrer" class="login">LOGIN</a>
+                <a href="https://preciseurl.org/7m9E" rel="nofollow noreferrer" class="register">DAFTAR</a>
+                </div>
+
+
+
+
+
+              <section id="pdp" class="
+    products
+    collection-content-wrapper
+    product-layout-side-by-side
+  ">
+
+
+
+
+
+
+
+
+                <article
+                  class="ProductItem hentry tag-togel-online tag-situs-toto tag-toto-togel author-situs-toto-togel-4D post-type-store-item"
+                  data-item-id="65fd0fc7db01f63c712f258e">
+
+                  <nav class="ProductItem-nav">
+                    <div class="ProductItem-nav-breadcrumb" data-animation-role="content">
+                      <a href="/store" class="ProductItem-nav-breadcrumb-link">Store</a>
+                      <span class="ProductItem-nav-breadcrumb-separator"></span>
+                      <a href="/store/p/zeus" class="ProductItem-nav-breadcrumb-link">ROKOKBET | Raja Bandar Togel Online Terbesar Dan Tepercaya Diseluruh Dunia</a>
+                    </div>
+
+
+
+                  </nav>
+
+
+                  <section class="ProductItem-summary" data-controller="ProductGallery">
+                    <section aria-label="Gallery" class="ProductItem-gallery" data-product-gallery="container">
+
+
+                      <div class="ProductItem-gallery-slides" data-animation-role="image" data-product-gallery="slides">
+
+
+
+                        <div class="ProductItem-gallery-slides-item" data-slide-index="1"
+                          data-image-id=65fd0fd62438744c9a05c86b data-controller="ImageZoom" data-slide-url="zeus"
+                          data-product-gallery="slides-item" data-test="pdp-gallery-slide">
+                          <img aria-describedby="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b"
+                            class="ProductItem-gallery-slides-item-1" data-load="false"
+                            data-src="https://res.cloudinary.com/dqkin28uq/image/upload/v1728669020/rokok7_j35gtb.jpg"
+                            data-image="https://res.cloudinary.com/dqkin28uq/image/upload/v1728669020/rokok7_j35gtb.jpg"
+                            data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="ROKOKBET"
+                            elementtiming="nbf-products-gallery" />
+                          <span id="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b"
+                            style="display: none;">
+                            Image 1 of
+                          </span>
+                          <div class="product-image-zoom-duplicate" aria-hidden="true">
+                            <img data-load="false"
+                              data-src="https://res.cloudinary.com/dqkin28uq/image/upload/v1728669020/rokok7_j35gtb.jpg"
+                              data-image="https://res.cloudinary.com/dqkin28uq/image/upload/v1728669020/rokok7_j35gtb.jpg"
+                              data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="ROKOKBET"
+                              elementtiming="nbf-products-gallery-zoom" />
+                          </div>
+                        </div>
+
+
+
+                        <div class="gallery-lightbox-outer-wrapper" data-use-image-loader="true"
+                          data-controller="Lightbox">
+                          <div class="gallery-lightbox " data-section-theme="">
+                            <div class="gallery-lightbox-background"></div>
+
+                            <div class="gallery-lightbox-header">
+                              <button class="gallery-lightbox-close-btn" aria-label="Close" data-close
+                                data-test="gallery-lightbox-close">
+                                <div class="gallery-lightbox-close-btn-icon">
+                                  <svg viewBox="0 0 40 40">
+                                    <path d="M4.3,35.7L35.7,4.3" />
+                                    <path d="M4.3,4.3l31.4,31.4" />
+                                  </svg>
+                                </div>
+                              </button>
+                            </div>
+
+
+                            <div class="gallery-lightbox-wrapper">
+                              <div class="gallery-lightbox-list">
+
+                                <figure class="gallery-lightbox-item" data-slide-url="zeus">
+                                  <div class="gallery-lightbox-item-wrapper">
+                                    <div class="gallery-lightbox-item-src">
+                                      <div class="gallery-lightbox-item-img content-fit">
+                                        <img
+                                          data-src="https://res.cloudinary.com/dqkin28uq/image/upload/v1728669020/rokok7_j35gtb.jpg"
+                                          data-image="https://res.cloudinary.com/dqkin28uq/image/upload/v1728669020/rokok7_j35gtb.jpg"
+                                          data-image-dimensions="840x480" data-image-focal-point="0.5,0.5"
+                                          alt="ROKOKBET" data-load="false" elementtiming="nbf-product-lightbox" /></div>
+                                    </div>
+                                  </div>
+                                </figure>
+
+                              </div>
+
+                              <div class="gallery-lightbox-controls" data-test="gallery-lightbox-controls">
+                                <div class="gallery-lightbox-control" data-previous
+                                  data-test="gallery-lightbox-control-previous">
+                                  <button class="gallery-lightbox-control-btn" aria-label="Previous Slide">
+                                    <div class="gallery-lightbox-control-btn-icon">
+                                      <svg class="caret-left-icon--small" viewBox="0 0 9 16">
+                                        <polyline fill="none" stroke-miterlimit="10" points="7.3,14.7 2.5,8 7.3,1.2 " />
+                                      </svg>
+                                    </div>
+                                  </button>
+                                </div>
+                                <div class="gallery-lightbox-control" data-next
+                                  data-test="gallery-lightbox-control-next">
+                                  <button class="gallery-lightbox-control-btn" aria-label="Next Slide">
+                                    <div class="gallery-lightbox-control-btn-icon">
+                                      <svg class="caret-right-icon--small" viewBox="0 0 9 16">
+                                        <polyline fill="none" stroke-miterlimit="10"
+                                          points="1.6,1.2 6.5,7.9 1.6,14.7 " />
+                                      </svg>
+                                    </div>
+                                  </button>
+                                </div>
+                              </div>
+
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+
+                    </section>
+
+                    <section class="
+    product-details
+    ProductItem-details
+  " data-test="pdp-details">
+                      <h1 class="ProductItem-details-title" data-content-field="title" data-test="pdp-title">
+                        ROKOKBET | Raja Bandar Togel Online Terbesar Dan Tepercaya Diseluruh Dunia
+                      </h1>
+                      <div data-controller="ProductItemVariants,ProductCartButton" class="ProductItem-details-checkout">
+
+                        <div class="ProductItem-product-price" data-animation-role="content">
+
+
+
+                          <div class="product-price">
+                            IDR 10.000.000
+                          </div>
+
+
+
+                          <div data-afterpay="true" data-current-context="{
+                                                            &quot;65fd0fc7db01f63c712f258e&quot;: {
+                                                              &quot;scarcityEnabled&quot;: false,
+                                                              &quot;scarcityShownByDefault&quot;: false,
+                                                              &quot;afterPayAvailable&quot;: false,
+                                                              &quot;klarnaAvailable&quot;: false,
+                                                              &quot;shopperLanguage&quot;: &quot;en&quot;,
+                                                              &quot;afterPayMin&quot;: 0,
+                                                              &quot;afterPayMax&quot;: 0,
+                                                              &quot;klarnaMin&quot;: 0,
+                                                              &quot;klarnaMax&quot;: 0,
+                                                              &quot;mailingListSignUpEnabled&quot;: false,
+                                                              &quot;mailingListOptInByDefault&quot;: false
+                                                            }
+                                                          }"></div>
+                          <div class="pdp-overlay"></div>
+
+                        </div>
+
+                        <div class="ProductItem-details-excerpt" data-content-field="excerpt">
+                          <p>ROKOKBET adalah raja bandar togel online yang paling terbesar dan yang paling tepercaya didunia dalam memberikan suatu kemenangan ke para pemainnya dan selain itu situs web ini sudah dinobatkan menjadi situs terbesar yang ada diseluruh dunia.</p>
+                          <p>Disini kita akan membahas tentang bagaimana situs ROKOKBET menjadi salah satu situs yang terbesar dan tepercaya didunia dan salah satunya sudah menjadi bagian dalam memberikan suatu cuan yang menguntungkan yang pernah ada dan didalam sumber menyatakan bahwa situs ROKOKBET la yang menjadi atau sudah dinobatkan sebagai raja togel terbesar diseluruh dunia.</p>
+                          <p>Mengapa hal ini bisa terjadi didalam situs ROKOKBET? dikarenakan didalam situs ROKOKBET ini sangat mengutamakan kepuaasan pemain dan kenyamanan para pemain sehingga pemain lainnya tidak pernah ragu untuk mau memulai permainan yang ada didalamnya dan ada banyak juga jenis permainan yang ada didalam seperti permainan togel.</p>
+                          <p>Tentu anda harus segera mendapatkan hadiah terbesar yang belum pernah sama sekali anda rasakan dari anda baru pertama kali memulai permainan togelnya dan setelah ini anda harus memulai permainan yang ada didalamnya karena ada banyak sekali jenis hadiah yang ada didalamnya dan ada juga jenis pasaran pasaran yang sudah disediakan didalam situs ROKOKBET ini yang tentunya dapat anda mainkan disetiap harinya dengan pola atau tema lainnya.</p>
+                          <p>Disetiap anda mau melakukan atau mau memulai permainan maka tidak lupa juga anda dengan bagaimana trik dan tips untuk memenangkan hadiah togelnya yang sudah dipersiapkan untuk anda bermain dan untuk anda menangkan jadi untuk kali ini kita akan membahas tentang bagaimana tips dan trik untuk memenangkan permainan togel atau perlombaan togel.</p>
+                          <p>Dengan cara anda melihat suatu prediksi atau bocoran angka yang akan keluar nantinya disetiap pasarannya maka dari itu sudah kami sediakan angka bocoran yang akan keluar nantinya dipasaran jadi anda akan dengan gampang untuk memenangkan hadiah terbesar dan hadiah menarik lainnya yang pernah disediakan didalam situs ROKOKBET.</p>
+                          <p>Jadi tidak lupa juga anda bagaimana untuk mengetahui dimana letak prediksi angka atau bocoran angka yang akan keluar nantinya dipasaran togelnya dan ini kami ingatkan juga kepada anda untuk selalu mengingat atau mencatat dibookmark dan diponsel anda sebagai bahan pengingat bagaimana nantinya anda mau memulai permainan togelnya.</p>
+                          <p>Anad hanya perlu mencatat dan menulis <strong>PREDIKSIMBAHRADEN.COM&nbsp;</strong>dipencarian google dan disini dapat anda simpulkan bahwa bagaimana isi dalamnya yang telah situs ROKOKBET sediakan untuk anda mainkan dan apa saja yang harus anda siapkan ketika mau memulai permainannya?</p>
+                          <p>Disini anda sudah pasti tahu ketka anda sudah mengetahui bocoran angkanya itu melalui apa dan yang sudah pastinya harus juga anda siapkan modal yang harusnya anda siapkan untuk mau memulai permainan togelnya yang ada didalamya. jadi didalam fitur ini juga pasti anda akan sangat terkejud dengan fitur yang sudah dikeluarkan dan disepakati oleh situs ROKOKBET.</p>
+                          <p>Dan anda hanya perlu menyediakan modal yang hanya maximal anda kelaurkan cuma ada dinominal 10.000 hal yang menarik bukan? sudah pasti jarang sekali ini anda temukan disitus lainnya yang mau menyediakan fitur yang seperti ini dan sudah pasti anda jarang menemukannya</p>
+                          <p>Jadi untuk anda sebagai pemain yang bijak tentu saja anda tidak mau bermain disitus yang belum ada tanda tanda mau memberikan hadiah terbesarnya dan bisa dipastikan juga para pemain lama kali sudah merasakan kemenangan terbesar yang pernah kami sediakan untuk anda jadi didalam pembahasan kita kali ini adalah betapa beruntungnya anda dapat mengenal situs mana yang pernah mendunia dari 2014 hingga sampai sekarang bisa berdiri kokok yang selalu menemani anda didalam mengisi keharian aktifitas anda.</p>
+                          <p>Jadi tidak diragukan lagi soal situs ROKOKBET ini menjadi salah satu situs yang terbesar dan tepercaya didunia yang sudah diyakini dalam hal segi memberikan kemenangan terhapa para member lainnya yang sudah melekat didalam diri anda, dan anda pastinya layak mendapatkan hadiah terbesar yang pernah situs ROKOKBET sediakan dan ini juga harus jadi bahan pertimbangan bagaimana anda dalam memilih situs mana yang paling tepercaya dalam memberikan sebuah hadiah dan bonus lainnya.</p>
+                          <p>Sudah pasti juga ketika anda mau memenangkan permainan togel ini sudah tentu anda juga pasti memiliki beberapa strategi untuk memenangkan perlombaanya dan perlu anda sadari juga ketika anda bermimpi atau biasa yang yang disebut sebagai bunga mimpi disitu juga anda bisa mengartikan sebuah mimpi anda menjadi angka yang akan keluar nantinya dipasarannya atau biasa yang diseut dengan erek erek.</p>
+                          <p>Dan ini bisa juga anda dapati atau anda lihat difitur ROKOKBET yang sediakan yang berjudul <strong>PREDIKSIMBAHRADEN.COM&nbsp;</strong>jadi disini anda akan dapat melihat bagaimana perkembangan sistem dan kemajuan teknologi yang sudah dikembangkan oleh manusia dan disini anda akan dapat melihat bagaimana atau apa artian adri sebuah mimpi sehingga mimpi itu bisa diartikan juga untuk sebuah angka yang akan keluar.</p>
+                          <p>Penting sekali bagi anda mengetahui tentang bagaimana perkembangan dunia pertogelan yang pernah iciptakan dari awal dan hingga sekarang ini jadi apabila anda dapat melihat suatu benda itu akan berubah menjadi yang tidak pernah anda lihat sebelumnya dan disini dapat anda simpulkan bahwa pada kemajuan teknologi yang berkembang pesat dalam dunia pertogelan yang sampai sekarang ini sudah sangat jauh berkembang dari sebelumnya.</p>
+                          <p>disini kami juga sudah menjelaskan bagaimana tentang kemajuan teknologi dunia pertogelan bisa maju dan bisa lebih berkembang disumber platform lainnya, disini bisa anda artikan juga bagaimana anda dapat mengetahui bagaimana dunia pertogelan berkembang sampai sekarang hingga menjadi sebuah teknologi mesin pencetak uang yang pesat.</p>
+                          <p><strong>Kesimpulan&nbsp;</strong></p>
+                          <p>Bagaimana dapat anda simpulkan bahwa apa yang kami beritahu adalah yang sangat penting untuk anda mengerti dan untuk anda pahami jadi tidak ada alasan lagi untuk anda berfikir tentang bagaimana situs ROKOKBET menjadi raja bandar togel online terbesar yang pernah diciptakan dan menjadi yang terbaik sepanjang sejarah yang paling gampang untuk dimenangkan hadiahnya dan yang paling mudah untuk diraih.</p>
+                          <p>Sebelumnya sudah sangat kami sarankan kepada anda tentang bagaimana mau memulai permainan togelnya dan tentu saja anda membuka tips dan trik bagaimana anda mau melakukan perminan togelnya atau ketika anda mau memasang angka anda langsung saja membuka dicatatan pondel anda yang sudah kami beritahu ulang ulang yaitu bernama <strong>PREDIKSIMBAHRADEN.COM</strong>, dan sudah pastiakan sangat gampang dihapal dan dipahami tetapi ada juga dari sebagian orang yang melupakan bagian ini sehingga banyak juga para pemain kami yang lupa dengan tips dan trik yang situs ROKOKBET sediakan. Jadi jangan sampai anda ketinggalan juga untuk bermain disitus ROKOKBET yang sudah terjamin dan tepercaya didalam soal memberikan kemenangan terhadap para pemainnya.</p>
+<p>&nbsp;</p>
+
+                        <div class="product-quantity-input" data-item-id="65fd0fc7db01f63c712f258e"
+                          data-animation-role="content">
+                          <div class="quantity-label">Quantity:</div>
+                          <input aria-label="Quantity" size="4" max="9999" min="1" value="1" type="number"
+                            step="1"></input>
+                        </div>
+
+                        <div class="sqs-add-to-cart-button-wrapper" data-animation-role="button">
+                          <a><div
+                            class="sqs-add-to-cart-button sqs-suppress-edit-mode sqs-editable-button sqs-button-element--primary "
+                            role="button" tabindex="0" data-dynamic-strings
+                            data-collection-id="65fd0fc2aa1d0858f5af2fe4" data-item-id="65fd0fc7db01f63c712f258e"
+                            data-product-type="1" data-use-custom-label="false" data-original-label="Add To Cart">
+                            <div class="sqs-add-to-cart-button-inner">Add To Cart</div>
+                          </div></a>
+                        </div>
+
+                      </div>
+                    </section>
+
+                  </section>
+                </article>
+              </section>
+            </div>
+
+          </div>
+        </section>
+      </article>
     </main>
-    <div class="fixed-footer">
-        <a href="https://preciseurl.org/Chip" rel="nofollow noopener" target="_blank">
-            <amp-img layout="intrinsic" height="75" width="75"
-                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi29onab2WbBZyibxPItADZcwlP_tMui8gY-sKQ5rfR4E0UFhlHcKdY5-aY25tBXJBUX-Q7L_CDQ1d7GJKWfP7h2wvq6qPujYsmHbqa3fDG84j_5JJj3F39wjoGtdvbjs7RPPABxje5HZ43pQknnAmyXVtP4-WY9nC-y6-7O4Vel67rX4h_1yJf8dQgmat1/s100/b3f1b578ebdb270700ff9b0c9475cf69.png"
-                alt="login Rokokbet"></amp-img>
-            Bonus
-        </a>
-        <a href="https://preciseurl.org/Chip" rel="nofollow noopener" target="_blank">
-            <amp-img layout="intrinsic" height="75" width="75"
-                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnHEyJ8jHh4y-faz1DspVyJN3qP20F3po3YJw1-Pnklx5E1K0Cce3SZeEojE7FZhwN_JFXq2I9jLPlm_dnAqb9sTLxARNxdvgysjenwO0dFVVCk-b5IFPJO8PGFLGvK1ufQfwOi9dha-R9Csj13CZp8EB3Ewlgc2wErg-SJ7r-yQuh22TGtUPFbBTw4MXr/s51/6b2ffffc4e97bb30e6d922ced607f802.png"
-                alt="login"></amp-img>
-            Login
-        </a>
-        <a href="https://preciseurl.org/Chip" rel="nofollow noopener" target="_blank" class="tada">
-            <amp-img class="center" layout="intrinsic" height="50" width="50"
-                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinl3Uq1UoFVhUBlTfOs_wwjJrOa5jRX_KpalvS6YfkA4jHn0t0N9OnE3z_9bxFgb_PEtT3xBv2yjkVie3C8rrGDs7r04E9x8NUeCqnqpFQBwLNU3vP-hfHTIhTrafAWVpAlZXjT6wWysdAkV3BnLepzpOeM_qO2yh7C_s2XJb-mXsur0f51NEodcAGDVhe/s51/bd350c38cdf02a19edcb5022f4d46f19.png"
-                alt="Daftar Rokokbet"></amp-img>
-            Daftar
-        </a>
-        <a href="https://preciseurl.org/Chip" rel="nofollow noopener" target="_blank">
-            <amp-img layout="intrinsic" height="75" width="75"
-                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD0CDMuR3GsFfdtpU9AiDbRGopg5vAVWt_NyS5QcuqrCc_t3CcVO2jWYC03zoVQooAqS6soHboo4whBRfJwyjv_aZ5NscUQ80Lp5r7WfIgGzgFvESz_jsIqxRZTMqmV4iPqsVZrKCRqP74oEl2W3CP5zKgOQfDtPDJ9m1ymen0J7ilhFgnVIsEloZvutmc/s100/2b1184d165c244636c89bef160799697.png"
-                alt="Link Alternatif Rokokbet"></amp-img>
-            Link Alternatif
-        </a>
-        <a href="https://preciseurl.org/Chip" rel="nofollow noopener" target="_blank"
-            class="js_live_chat_link live-chat-link">
-            <amp-img class="live-chat-icon" layout="intrinsic" height="75" width="75"
-                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgst7mn7_cvYwhyvb0Jx-6KTtz6QbbCKCFJFWJRfjCecAgfMSMlnoFsGNT46-MjctSKJ_Bm4KO7-SsegSt7hBuLZl2Rr7Jt5Xt4JjYkvuElI_gmKZJWn4AjPgm9J68hE7oeMkpgcTfIgGRbO-9z38_CXxQiC5KK3dQrmrWVLo9cGaxHXxvFme0gHIIKFe0_/s100/ed94593b02796a81fe558659411b7562.png"
-                alt="Live Chat Rokokbet"></amp-img>
-            Live Chat
-        </a>
-    </div>
+    <script type="text/javascript">
+      const firstSection = document.querySelector('.page-section');
+      const header = document.querySelector('.header');
+      const mobileOverlayNav = document.querySelector('.header-menu');
+      const sectionBackground = firstSection ? firstSection.querySelector('.section-background') : null;
+      const headerHeight = header ? header.getBoundingClientRect().height : 0;
+      const firstSectionHasBackground = firstSection ? firstSection.className.indexOf('has-background') >= 0 : false;
+      const isFirstSectionInset = firstSection ? firstSection.className.indexOf('background-width--inset') >= 0 : false;
+      const isLayoutEngineSection = firstSection ? firstSection.className.indexOf('layout-engine-section') >= 0 : false;
+
+      if (firstSection) {
+        firstSection.style.paddingTop = headerHeight + 'px';
+      }
+      if (sectionBackground && isLayoutEngineSection) {
+        if (isFirstSectionInset) {
+          sectionBackground.style.top = headerHeight + 'px';
+        } else {
+          sectionBackground.style.top = '';
+        }
+      }
+      //# sourceURL=headerPositioning.js
+    </script>
+
+
+    <footer class="sections" id="footer-sections" data-footer-sections>
+<small class="copyright__content"><a href="https://extollo.hu/" title="ROKOKBET Online">Copyright �2024 ROKOKBET Online</a></small>
+    </footer>
+
+
+  </div>
+
+  <script defer="defer"
+    src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.6c05f1e49429ba1d8919cf9e9cce7b3f.js"
+    type="text/javascript"></script>
+  <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg">
+    <symbol id="facebook-icon" viewBox="0 0 64 64">
+      <path
+        d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z" />
+    </symbol>
+    <symbol id="facebook-mask" viewBox="0 0 64 64">
+      <path
+        d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z" />
+    </symbol>
+    <symbol id="instagram-icon" viewBox="0 0 64 64">
+      <path
+        d="M46.91,25.816c-0.073-1.597-0.326-2.687-0.697-3.641c-0.383-0.986-0.896-1.823-1.73-2.657c-0.834-0.834-1.67-1.347-2.657-1.73c-0.954-0.371-2.045-0.624-3.641-0.697C36.585,17.017,36.074,17,32,17s-4.585,0.017-6.184,0.09c-1.597,0.073-2.687,0.326-3.641,0.697c-0.986,0.383-1.823,0.896-2.657,1.73c-0.834,0.834-1.347,1.67-1.73,2.657c-0.371,0.954-0.624,2.045-0.697,3.641C17.017,27.415,17,27.926,17,32c0,4.074,0.017,4.585,0.09,6.184c0.073,1.597,0.326,2.687,0.697,3.641c0.383,0.986,0.896,1.823,1.73,2.657c0.834,0.834,1.67,1.347,2.657,1.73c0.954,0.371,2.045,0.624,3.641,0.697C27.415,46.983,27.926,47,32,47s4.585-0.017,6.184-0.09c1.597-0.073,2.687-0.326,3.641-0.697c0.986-0.383,1.823-0.896,2.657-1.73c0.834-0.834,1.347-1.67,1.73-2.657c0.371-0.954,0.624-2.045,0.697-3.641C46.983,36.585,47,36.074,47,32S46.983,27.415,46.91,25.816z M44.21,38.061c-0.067,1.462-0.311,2.257-0.516,2.785c-0.272,0.7-0.597,1.2-1.122,1.725c-0.525,0.525-1.025,0.85-1.725,1.122c-0.529,0.205-1.323,0.45-2.785,0.516c-1.581,0.072-2.056,0.087-6.061,0.087s-4.48-0.015-6.061-0.087c-1.462-0.067-2.257-0.311-2.785-0.516c-0.7-0.272-1.2-0.597-1.725-1.122c-0.525-0.525-0.85-1.025-1.122-1.725c-0.205-0.529-0.45-1.323-0.516-2.785c-0.072-1.582-0.087-2.056-0.087-6.061s0.015-4.48,0.087-6.061c0.067-1.462,0.311-2.257,0.516-2.785c0.272-0.7,0.597-1.2,1.122-1.725c0.525-0.525,1.025-0.85,1.725-1.122c0.529-0.205,1.323-0.45,2.785-0.516c1.582-0.072,2.056-0.087,6.061-0.087s4.48,0.015,6.061,0.087c1.462,0.067,2.257,0.311,2.785,0.516c0.7,0.272,1.2,0.597,1.725,1.122c0.525,0.525,0.85,1.025,1.122,1.725c0.205,0.529,0.45,1.323,0.516,2.785c0.072,1.582,0.087,2.056,0.087,6.061S44.282,36.48,44.21,38.061z M32,24.297c-4.254,0-7.703,3.449-7.703,7.703c0,4.254,3.449,7.703,7.703,7.703c4.254,0,7.703-3.449,7.703-7.703C39.703,27.746,36.254,24.297,32,24.297z M32,37c-2.761,0-5-2.239-5-5c0-2.761,2.239-5,5-5s5,2.239,5,5C37,34.761,34.761,37,32,37z M40.007,22.193c-0.994,0-1.8,0.806-1.8,1.8c0,0.994,0.806,1.8,1.8,1.8c0.994,0,1.8-0.806,1.8-1.8C41.807,22.999,41.001,22.193,40.007,22.193z" />
+    </symbol>
+    <symbol id="instagram-mask" viewBox="0 0 64 64">
+      <path
+        d="M43.693,23.153c-0.272-0.7-0.597-1.2-1.122-1.725c-0.525-0.525-1.025-0.85-1.725-1.122c-0.529-0.205-1.323-0.45-2.785-0.517c-1.582-0.072-2.056-0.087-6.061-0.087s-4.48,0.015-6.061,0.087c-1.462,0.067-2.257,0.311-2.785,0.517c-0.7,0.272-1.2,0.597-1.725,1.122c-0.525,0.525-0.85,1.025-1.122,1.725c-0.205,0.529-0.45,1.323-0.516,2.785c-0.072,1.582-0.087,2.056-0.087,6.061s0.015,4.48,0.087,6.061c0.067,1.462,0.311,2.257,0.516,2.785c0.272,0.7,0.597,1.2,1.122,1.725s1.025,0.85,1.725,1.122c0.529,0.205,1.323,0.45,2.785,0.516c1.581,0.072,2.056,0.087,6.061,0.087s4.48-0.015,6.061-0.087c1.462-0.067,2.257-0.311,2.785-0.516c0.7-0.272,1.2-0.597,1.725-1.122s0.85-1.025,1.122-1.725c0.205-0.529,0.45-1.323,0.516-2.785c0.072-1.582,0.087-2.056,0.087-6.061s-0.015-4.48-0.087-6.061C44.143,24.476,43.899,23.682,43.693,23.153z M32,39.703c-4.254,0-7.703-3.449-7.703-7.703s3.449-7.703,7.703-7.703s7.703,3.449,7.703,7.703S36.254,39.703,32,39.703z M40.007,25.793c-0.994,0-1.8-0.806-1.8-1.8c0-0.994,0.806-1.8,1.8-1.8c0.994,0,1.8,0.806,1.8,1.8C41.807,24.987,41.001,25.793,40.007,25.793z M0,0v64h64V0H0z M46.91,38.184c-0.073,1.597-0.326,2.687-0.697,3.641c-0.383,0.986-0.896,1.823-1.73,2.657c-0.834,0.834-1.67,1.347-2.657,1.73c-0.954,0.371-2.044,0.624-3.641,0.697C36.585,46.983,36.074,47,32,47s-4.585-0.017-6.184-0.09c-1.597-0.073-2.687-0.326-3.641-0.697c-0.986-0.383-1.823-0.896-2.657-1.73c-0.834-0.834-1.347-1.67-1.73-2.657c-0.371-0.954-0.624-2.044-0.697-3.641C17.017,36.585,17,36.074,17,32c0-4.074,0.017-4.585,0.09-6.185c0.073-1.597,0.326-2.687,0.697-3.641c0.383-0.986,0.896-1.823,1.73-2.657c0.834-0.834,1.67-1.347,2.657-1.73c0.954-0.371,2.045-0.624,3.641-0.697C27.415,17.017,27.926,17,32,17s4.585,0.017,6.184,0.09c1.597,0.073,2.687,0.326,3.641,0.697c0.986,0.383,1.823,0.896,2.657,1.73c0.834,0.834,1.347,1.67,1.73,2.657c0.371,0.954,0.624,2.044,0.697,3.641C46.983,27.415,47,27.926,47,32C47,36.074,46.983,36.585,46.91,38.184z M32,27c-2.761,0-5,2.239-5,5s2.239,5,5,5s5-2.239,5-5S34.761,27,32,27z" />
+    </symbol>
+    <symbol id="twitter-icon" viewBox="0 0 64 64">
+      <path
+        d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z" />
+    </symbol>
+    <symbol id="twitter-mask" viewBox="0 0 64 64">
+      <path
+        d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z" />
+    </symbol>
+  </svg>
+
 </body>
 <div style="display: none;">
-    <p><a href="https://vlmontage.lv/">Situs Toto</a></p>
-    <p><a href="https://www.opheliemadness.com/">Situs Toto</a></p>
-    <p><a href="https://lapdatcameramienbac.com/">situs toto</a></p>
-    <p><a href="https://www.olimpiaotel.com/">Situs Toto</a></p>  
-    <p><a href="https://www.redbullflugtag.ca/">Rokokbet</a></p>
-    </div>
+  <p><a href="https://vlmontage.lv/">Situs Toto</a></p>
+  <p><a href="https://www.opheliemadness.com/">Situs Toto</a></p>
+  <p><a href="https://lapdatcameramienbac.com/">situs toto</a></p>
+  <p><a href="https://www.olimpiaotel.com/">Situs Toto</a></p>  
+  <p><a href="https://www.redbullflugtag.ca/">Toto 4D</a></p>
+  </div>
 </html>
